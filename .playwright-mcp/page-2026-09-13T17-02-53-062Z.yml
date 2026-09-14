@@ -1,0 +1,2145 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e4]:
+    - text: Line wrap
+    - checkbox "Line wrap" [ref=f1e5]
+  - table [ref=f1e6]:
+    - rowgroup [ref=f1e7]:
+      - row [ref=f1e8]:
+        - cell "1" [ref=f1e9]
+        - cell [ref=f1e10]:
+          - generic [ref=f1e11]: <html lang="en" op="news">
+          - text: <head>
+          - generic [ref=f1e12]: <meta name="referrer" content="origin">
+          - generic [ref=f1e13]: <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          - generic [ref=f1e14]:
+            - text: <link rel="icon" href="
+            - link "y18.svg" [ref=f1e15] [cursor=pointer]:
+              - /url: y18.svg
+            - text: "\">"
+          - generic [ref=f1e16]:
+            - text: <link rel="stylesheet" type="text/css" href="
+            - link "news.css?1tF8I2e7s6Rn5wBtSfGc" [ref=f1e17] [cursor=pointer]:
+              - /url: news.css?1tF8I2e7s6Rn5wBtSfGc
+            - text: "\">"
+          - generic [ref=f1e18]:
+            - text: <link rel="alternate" type="application/rss+xml" title="RSS" href="
+            - link "rss" [ref=f1e19] [cursor=pointer]:
+              - /url: rss
+            - text: "\">"
+          - text: <title>Hacker News</title></head><body><center>
+          - generic [ref=f1e20]: <table id="hnmain" border="0" cellpadding="0" cellspacing="0" width="85%" bgcolor="#f6f6ef">
+          - text: <tr>
+          - generic [ref=f1e21]: <td bgcolor="#ff6600">
+          - generic [ref=f1e22]: <table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding:2px">
+          - text: <tr>
+          - generic [ref=f1e23]: <td style="width:18px;padding-right:4px">
+          - generic [ref=f1e24]:
+            - text: <a href="
+            - link "https://news.ycombinator.com" [ref=f1e25] [cursor=pointer]:
+              - /url: https://news.ycombinator.com
+            - text: "\">"
+          - generic [ref=f1e26]:
+            - text: <img src="
+            - link "y18.svg" [ref=f1e27] [cursor=pointer]:
+              - /url: y18.svg
+            - text: "\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\">"
+          - text: </a></td>
+          - generic [ref=f1e28]: <td style="line-height:12pt; height:10px;">
+          - generic [ref=f1e29]: <span class="pagetop">
+          - generic [ref=f1e30]: <b class="hnname">
+          - generic [ref=f1e31]:
+            - text: <a href="
+            - link "news" [ref=f1e32] [cursor=pointer]:
+              - /url: news
+            - text: "\">"
+          - text: Hacker News</a></b>
+          - generic [ref=f1e33]:
+            - text: <a href="
+            - link "newest" [ref=f1e34] [cursor=pointer]:
+              - /url: newest
+            - text: "\">"
+          - text: new</a> |
+          - generic [ref=f1e35]:
+            - text: <a href="
+            - link "front" [ref=f1e36] [cursor=pointer]:
+              - /url: front
+            - text: "\">"
+          - text: past</a> |
+          - generic [ref=f1e37]:
+            - text: <a href="
+            - link "newcomments" [ref=f1e38] [cursor=pointer]:
+              - /url: newcomments
+            - text: "\">"
+          - text: comments</a> |
+          - generic [ref=f1e39]:
+            - text: <a href="
+            - link "ask" [ref=f1e40] [cursor=pointer]:
+              - /url: ask
+            - text: "\">"
+          - text: ask</a> |
+          - generic [ref=f1e41]:
+            - text: <a href="
+            - link "show" [ref=f1e42] [cursor=pointer]:
+              - /url: show
+            - text: "\">"
+          - text: show</a> |
+          - generic [ref=f1e43]:
+            - text: <a href="
+            - link "jobs" [ref=f1e44] [cursor=pointer]:
+              - /url: jobs
+            - text: "\">"
+          - text: jobs</a> |
+          - generic [ref=f1e45]:
+            - text: <a href="
+            - link "submit" [ref=f1e46] [cursor=pointer]:
+              - /url: submit
+            - text: "\" rel=\"nofollow\">"
+          - text: submit</a></span></td>
+          - generic [ref=f1e47]: <td style="text-align:right;padding-right:4px;">
+          - generic [ref=f1e48]: <span class="pagetop">
+          - generic [ref=f1e49]:
+            - text: <a href="
+            - link "login?goto=news" [ref=f1e50] [cursor=pointer]:
+              - /url: login?goto=news
+            - text: "\">"
+          - text: login</a></span></td></tr></table></td></tr>
+          - generic [ref=f1e51]: <tr style='height:10px'/>
+          - generic [ref=f1e52]: <tr id="bigbox">
+          - text: <td>
+          - generic [ref=f1e53]: <table border="0" cellpadding="0" cellspacing="0">
+          - generic [ref=f1e54]: <tr class="athing submission" id="49684393">
+          - generic [ref=f1e55]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e56]: <span class="rank">
+          - text: 1.</span></td>
+          - generic [ref=f1e57]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e58]:
+            - text: <a id='up_49684393' href='
+            - link "vote?id=49684393&amp;how=up&amp;goto=news" [ref=f1e59] [cursor=pointer]:
+              - /url: vote?id=49684393&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e60]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e61]: <td class="title">
+          - generic [ref=f1e62]: <span class="titleline">
+          - generic [ref=f1e63]:
+            - text: <a href="
+            - link "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment" [ref=f1e64] [cursor=pointer]:
+              - /url: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment
+            - text: "\">"
+          - text: Astra and Fable still hack on simple variants of alignment evals from 2025</a>
+          - generic [ref=f1e65]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e66]:
+            - text: <a href="
+            - link "from?site=lesswrong.com" [ref=f1e67] [cursor=pointer]:
+              - /url: from?site=lesswrong.com
+            - text: "\">"
+          - generic [ref=f1e68]: <span class="sitestr">
+          - text: lesswrong.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e69]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e70]: <td class="subtext">
+          - generic [ref=f1e71]: <span class="subline">
+          - generic [ref=f1e72]: <span class="score" id="score_49684393">
+          - text: 143 points</span> by
+          - generic [ref=f1e73]:
+            - text: <a href="
+            - link "user?id=Levitating" [ref=f1e74] [cursor=pointer]:
+              - /url: user?id=Levitating
+            - text: "\" class=\"hnuser\">"
+          - text: Levitating</a>
+          - generic [ref=f1e75]: <span class="age" title="2026-09-13T14:28:36">
+          - generic [ref=f1e76]:
+            - text: <a href="
+            - link "item?id=49684393" [ref=f1e77] [cursor=pointer]:
+              - /url: item?id=49684393
+            - text: "\">"
+          - text: 2 hours ago</a></span>
+          - generic [ref=f1e78]: <span id="unv_49684393">
+          - text: </span> |
+          - generic [ref=f1e79]:
+            - text: <a href="
+            - link "hide?id=49684393&amp;goto=news" [ref=f1e80] [cursor=pointer]:
+              - /url: hide?id=49684393&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e81]:
+            - text: <a href="
+            - link "item?id=49684393" [ref=f1e82] [cursor=pointer]:
+              - /url: item?id=49684393
+            - text: "\">"
+          - text: 45&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e83]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e84]: <tr class="athing submission" id="49681152">
+          - generic [ref=f1e85]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e86]: <span class="rank">
+          - text: 2.</span></td>
+          - generic [ref=f1e87]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e88]:
+            - text: <a id='up_49681152' href='
+            - link "vote?id=49681152&amp;how=up&amp;goto=news" [ref=f1e89] [cursor=pointer]:
+              - /url: vote?id=49681152&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e90]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e91]: <td class="title">
+          - generic [ref=f1e92]: <span class="titleline">
+          - generic [ref=f1e93]:
+            - text: <a href="
+            - link "https://jetkvm.com/blog/introducing-jetkvm-mini" [ref=f1e94] [cursor=pointer]:
+              - /url: https://jetkvm.com/blog/introducing-jetkvm-mini
+            - text: "\">"
+          - text: JetKVM Mini</a>
+          - generic [ref=f1e95]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e96]:
+            - text: <a href="
+            - link "from?site=jetkvm.com" [ref=f1e97] [cursor=pointer]:
+              - /url: from?site=jetkvm.com
+            - text: "\">"
+          - generic [ref=f1e98]: <span class="sitestr">
+          - text: jetkvm.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e99]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e100]: <td class="subtext">
+          - generic [ref=f1e101]: <span class="subline">
+          - generic [ref=f1e102]: <span class="score" id="score_49681152">
+          - text: 380 points</span> by
+          - generic [ref=f1e103]:
+            - text: <a href="
+            - link "user?id=taubek" [ref=f1e104] [cursor=pointer]:
+              - /url: user?id=taubek
+            - text: "\" class=\"hnuser\">"
+          - text: taubek</a>
+          - generic [ref=f1e105]: <span class="age" title="2026-09-13T07:49:46">
+          - generic [ref=f1e106]:
+            - text: <a href="
+            - link "item?id=49681152" [ref=f1e107] [cursor=pointer]:
+              - /url: item?id=49681152
+            - text: "\">"
+          - text: 9 hours ago</a></span>
+          - generic [ref=f1e108]: <span id="unv_49681152">
+          - text: </span> |
+          - generic [ref=f1e109]:
+            - text: <a href="
+            - link "hide?id=49681152&amp;goto=news" [ref=f1e110] [cursor=pointer]:
+              - /url: hide?id=49681152&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e111]:
+            - text: <a href="
+            - link "item?id=49681152" [ref=f1e112] [cursor=pointer]:
+              - /url: item?id=49681152
+            - text: "\">"
+          - text: 145&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e113]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e114]: <tr class="athing submission" id="49684356">
+          - generic [ref=f1e115]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e116]: <span class="rank">
+          - text: 3.</span></td>
+          - generic [ref=f1e117]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e118]:
+            - text: <a id='up_49684356' href='
+            - link "vote?id=49684356&amp;how=up&amp;goto=news" [ref=f1e119] [cursor=pointer]:
+              - /url: vote?id=49684356&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e120]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e121]: <td class="title">
+          - generic [ref=f1e122]: <span class="titleline">
+          - generic [ref=f1e123]:
+            - text: <a href="
+            - link "https://github.com/Speedstu/CUDA-for-AMD-Windows" [ref=f1e124] [cursor=pointer]:
+              - /url: https://github.com/Speedstu/CUDA-for-AMD-Windows
+            - text: "\">"
+          - text: CUDA for AMD on Windows</a>
+          - generic [ref=f1e125]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e126]:
+            - text: <a href="
+            - link "from?site=github.com/speedstu" [ref=f1e127] [cursor=pointer]:
+              - /url: from?site=github.com/speedstu
+            - text: "\">"
+          - generic [ref=f1e128]: <span class="sitestr">
+          - text: github.com/speedstu</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e129]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e130]: <td class="subtext">
+          - generic [ref=f1e131]: <span class="subline">
+          - generic [ref=f1e132]: <span class="score" id="score_49684356">
+          - text: 46 points</span> by
+          - generic [ref=f1e133]:
+            - text: <a href="
+            - link "user?id=chiassedu80" [ref=f1e134] [cursor=pointer]:
+              - /url: user?id=chiassedu80
+            - text: "\" class=\"hnuser\">"
+          - text: chiassedu80</a>
+          - generic [ref=f1e135]: <span class="age" title="2026-09-13T14:25:13">
+          - generic [ref=f1e136]:
+            - text: <a href="
+            - link "item?id=49684356" [ref=f1e137] [cursor=pointer]:
+              - /url: item?id=49684356
+            - text: "\">"
+          - text: 2 hours ago</a></span>
+          - generic [ref=f1e138]: <span id="unv_49684356">
+          - text: </span> |
+          - generic [ref=f1e139]:
+            - text: <a href="
+            - link "hide?id=49684356&amp;goto=news" [ref=f1e140] [cursor=pointer]:
+              - /url: hide?id=49684356&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e141]:
+            - text: <a href="
+            - link "item?id=49684356" [ref=f1e142] [cursor=pointer]:
+              - /url: item?id=49684356
+            - text: "\">"
+          - text: 7&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e143]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e144]: <tr class="athing submission" id="49683262">
+          - generic [ref=f1e145]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e146]: <span class="rank">
+          - text: 4.</span></td>
+          - generic [ref=f1e147]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e148]:
+            - text: <a id='up_49683262' href='
+            - link "vote?id=49683262&amp;how=up&amp;goto=news" [ref=f1e149] [cursor=pointer]:
+              - /url: vote?id=49683262&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e150]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e151]: <td class="title">
+          - generic [ref=f1e152]: <span class="titleline">
+          - generic [ref=f1e153]:
+            - text: <a href="
+            - link "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689" [ref=f1e154] [cursor=pointer]:
+              - /url: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689
+            - text: "\">"
+          - text: Why is the x86 undefined instruction called ud2? Why 2?</a>
+          - generic [ref=f1e155]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e156]:
+            - text: <a href="
+            - link "from?site=devblogs.microsoft.com/oldnewthing" [ref=f1e157] [cursor=pointer]:
+              - /url: from?site=devblogs.microsoft.com/oldnewthing
+            - text: "\">"
+          - generic [ref=f1e158]: <span class="sitestr">
+          - text: devblogs.microsoft.com/oldnewthing</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e159]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e160]: <td class="subtext">
+          - generic [ref=f1e161]: <span class="subline">
+          - generic [ref=f1e162]: <span class="score" id="score_49683262">
+          - text: 67 points</span> by
+          - generic [ref=f1e163]:
+            - text: <a href="
+            - link "user?id=ibobev" [ref=f1e164] [cursor=pointer]:
+              - /url: user?id=ibobev
+            - text: "\" class=\"hnuser\">"
+          - text: ibobev</a>
+          - generic [ref=f1e165]: <span class="age" title="2026-09-13T12:30:15">
+          - generic [ref=f1e166]:
+            - text: <a href="
+            - link "item?id=49683262" [ref=f1e167] [cursor=pointer]:
+              - /url: item?id=49683262
+            - text: "\">"
+          - text: 4 hours ago</a></span>
+          - generic [ref=f1e168]: <span id="unv_49683262">
+          - text: </span> |
+          - generic [ref=f1e169]:
+            - text: <a href="
+            - link "hide?id=49683262&amp;goto=news" [ref=f1e170] [cursor=pointer]:
+              - /url: hide?id=49683262&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e171]:
+            - text: <a href="
+            - link "item?id=49683262" [ref=f1e172] [cursor=pointer]:
+              - /url: item?id=49683262
+            - text: "\">"
+          - text: 21&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e173]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e174]: <tr class="athing submission" id="49683033">
+          - generic [ref=f1e175]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e176]: <span class="rank">
+          - text: 5.</span></td>
+          - generic [ref=f1e177]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e178]:
+            - text: <a id='up_49683033' href='
+            - link "vote?id=49683033&amp;how=up&amp;goto=news" [ref=f1e179] [cursor=pointer]:
+              - /url: vote?id=49683033&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e180]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e181]: <td class="title">
+          - generic [ref=f1e182]: <span class="titleline">
+          - generic [ref=f1e183]:
+            - text: <a href="
+            - link "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet" [ref=f1e184] [cursor=pointer]:
+              - /url: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet
+            - text: "\">"
+          - text: "&#x27;Fingerprints&#x27; inside the Sun could reveal if it once swallowed a planet</a>"
+          - generic [ref=f1e185]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e186]:
+            - text: <a href="
+            - link "from?site=ras.ac.uk" [ref=f1e187] [cursor=pointer]:
+              - /url: from?site=ras.ac.uk
+            - text: "\">"
+          - generic [ref=f1e188]: <span class="sitestr">
+          - text: ras.ac.uk</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e189]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e190]: <td class="subtext">
+          - generic [ref=f1e191]: <span class="subline">
+          - generic [ref=f1e192]: <span class="score" id="score_49683033">
+          - text: 78 points</span> by
+          - generic [ref=f1e193]:
+            - text: <a href="
+            - link "user?id=blincoln" [ref=f1e194] [cursor=pointer]:
+              - /url: user?id=blincoln
+            - text: "\" class=\"hnuser\">"
+          - text: blincoln</a>
+          - generic [ref=f1e195]: <span class="age" title="2026-09-13T12:01:52">
+          - generic [ref=f1e196]:
+            - text: <a href="
+            - link "item?id=49683033" [ref=f1e197] [cursor=pointer]:
+              - /url: item?id=49683033
+            - text: "\">"
+          - text: 4 hours ago</a></span>
+          - generic [ref=f1e198]: <span id="unv_49683033">
+          - text: </span> |
+          - generic [ref=f1e199]:
+            - text: <a href="
+            - link "hide?id=49683033&amp;goto=news" [ref=f1e200] [cursor=pointer]:
+              - /url: hide?id=49683033&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e201]:
+            - text: <a href="
+            - link "item?id=49683033" [ref=f1e202] [cursor=pointer]:
+              - /url: item?id=49683033
+            - text: "\">"
+          - text: 25&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e203]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e204]: <tr class="athing submission" id="49684778">
+          - generic [ref=f1e205]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e206]: <span class="rank">
+          - text: 6.</span></td>
+          - generic [ref=f1e207]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e208]:
+            - text: <a id='up_49684778' href='
+            - link "vote?id=49684778&amp;how=up&amp;goto=news" [ref=f1e209] [cursor=pointer]:
+              - /url: vote?id=49684778&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e210]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e211]: <td class="title">
+          - generic [ref=f1e212]: <span class="titleline">
+          - generic [ref=f1e213]:
+            - text: <a href="
+            - link "https://cpak.it/" [ref=f1e214] [cursor=pointer]:
+              - /url: https://cpak.it/
+            - text: "\">"
+          - text: Cpak – OCI application package format for Linux desktops, servers and devices</a>
+          - generic [ref=f1e215]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e216]:
+            - text: <a href="
+            - link "from?site=cpak.it" [ref=f1e217] [cursor=pointer]:
+              - /url: from?site=cpak.it
+            - text: "\">"
+          - generic [ref=f1e218]: <span class="sitestr">
+          - text: cpak.it</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e219]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e220]: <td class="subtext">
+          - generic [ref=f1e221]: <span class="subline">
+          - generic [ref=f1e222]: <span class="score" id="score_49684778">
+          - text: 14 points</span> by
+          - generic [ref=f1e223]:
+            - text: <a href="
+            - link "user?id=xlmnxp" [ref=f1e224] [cursor=pointer]:
+              - /url: user?id=xlmnxp
+            - text: "\" class=\"hnuser\">"
+          - text: xlmnxp</a>
+          - generic [ref=f1e225]: <span class="age" title="2026-09-13T15:02:56">
+          - generic [ref=f1e226]:
+            - text: <a href="
+            - link "item?id=49684778" [ref=f1e227] [cursor=pointer]:
+              - /url: item?id=49684778
+            - text: "\">"
+          - text: 1 hour ago</a></span>
+          - generic [ref=f1e228]: <span id="unv_49684778">
+          - text: </span> |
+          - generic [ref=f1e229]:
+            - text: <a href="
+            - link "hide?id=49684778&amp;goto=news" [ref=f1e230] [cursor=pointer]:
+              - /url: hide?id=49684778&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e231]:
+            - text: <a href="
+            - link "item?id=49684778" [ref=f1e232] [cursor=pointer]:
+              - /url: item?id=49684778
+            - text: "\">"
+          - text: 4&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e233]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e234]: <tr class="athing submission" id="49638071">
+          - generic [ref=f1e235]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e236]: <span class="rank">
+          - text: 7.</span></td>
+          - generic [ref=f1e237]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e238]:
+            - text: <a id='up_49638071' href='
+            - link "vote?id=49638071&amp;how=up&amp;goto=news" [ref=f1e239] [cursor=pointer]:
+              - /url: vote?id=49638071&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e240]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e241]: <td class="title">
+          - generic [ref=f1e242]: <span class="titleline">
+          - generic [ref=f1e243]:
+            - text: <a href="
+            - link "https://bensimms.moe/reverse-engineering-scooter/" [ref=f1e244] [cursor=pointer]:
+              - /url: https://bensimms.moe/reverse-engineering-scooter/
+            - text: "\">"
+          - text: Reverse engineering my e-scooter and rewriting the firmware in Rust</a>
+          - generic [ref=f1e245]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e246]:
+            - text: <a href="
+            - link "from?site=bensimms.moe" [ref=f1e247] [cursor=pointer]:
+              - /url: from?site=bensimms.moe
+            - text: "\">"
+          - generic [ref=f1e248]: <span class="sitestr">
+          - text: bensimms.moe</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e249]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e250]: <td class="subtext">
+          - generic [ref=f1e251]: <span class="subline">
+          - generic [ref=f1e252]: <span class="score" id="score_49638071">
+          - text: 157 points</span> by
+          - generic [ref=f1e253]:
+            - text: <a href="
+            - link "user?id=vinhnx" [ref=f1e254] [cursor=pointer]:
+              - /url: user?id=vinhnx
+            - text: "\" class=\"hnuser\">"
+          - text: vinhnx</a>
+          - generic [ref=f1e255]: <span class="age" title="2026-09-10T03:32:04">
+          - generic [ref=f1e256]:
+            - text: <a href="
+            - link "item?id=49638071" [ref=f1e257] [cursor=pointer]:
+              - /url: item?id=49638071
+            - text: "\">"
+          - text: 7 hours ago</a></span>
+          - generic [ref=f1e258]: <span id="unv_49638071">
+          - text: </span> |
+          - generic [ref=f1e259]:
+            - text: <a href="
+            - link "hide?id=49638071&amp;goto=news" [ref=f1e260] [cursor=pointer]:
+              - /url: hide?id=49638071&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e261]:
+            - text: <a href="
+            - link "item?id=49638071" [ref=f1e262] [cursor=pointer]:
+              - /url: item?id=49638071
+            - text: "\">"
+          - text: 48&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e263]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e264]: <tr class="athing submission" id="49685037">
+          - generic [ref=f1e265]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e266]: <span class="rank">
+          - text: 8.</span></td>
+          - generic [ref=f1e267]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e268]:
+            - text: <a id='up_49685037' href='
+            - link "vote?id=49685037&amp;how=up&amp;goto=news" [ref=f1e269] [cursor=pointer]:
+              - /url: vote?id=49685037&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e270]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e271]: <td class="title">
+          - generic [ref=f1e272]: <span class="titleline">
+          - generic [ref=f1e273]:
+            - text: <a href="
+            - link "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/" [ref=f1e274] [cursor=pointer]:
+              - /url: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/
+            - text: "\">"
+          - text: Libraries Run Rust Inside Python (With PyO3)</a>
+          - generic [ref=f1e275]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e276]:
+            - text: <a href="
+            - link "from?site=belderbos.dev" [ref=f1e277] [cursor=pointer]:
+              - /url: from?site=belderbos.dev
+            - text: "\">"
+          - generic [ref=f1e278]: <span class="sitestr">
+          - text: belderbos.dev</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e279]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e280]: <td class="subtext">
+          - generic [ref=f1e281]: <span class="subline">
+          - generic [ref=f1e282]: <span class="score" id="score_49685037">
+          - text: 22 points</span> by
+          - generic [ref=f1e283]:
+            - text: <a href="
+            - link "user?id=lumpa" [ref=f1e284] [cursor=pointer]:
+              - /url: user?id=lumpa
+            - text: "\" class=\"hnuser\">"
+          - text: lumpa</a>
+          - generic [ref=f1e285]: <span class="age" title="2026-09-13T15:24:05">
+          - generic [ref=f1e286]:
+            - text: <a href="
+            - link "item?id=49685037" [ref=f1e287] [cursor=pointer]:
+              - /url: item?id=49685037
+            - text: "\">"
+          - text: 1 hour ago</a></span>
+          - generic [ref=f1e288]: <span id="unv_49685037">
+          - text: </span> |
+          - generic [ref=f1e289]:
+            - text: <a href="
+            - link "hide?id=49685037&amp;goto=news" [ref=f1e290] [cursor=pointer]:
+              - /url: hide?id=49685037&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e291]:
+            - text: <a href="
+            - link "item?id=49685037" [ref=f1e292] [cursor=pointer]:
+              - /url: item?id=49685037
+            - text: "\">"
+          - text: 18&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e293]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e294]: <tr class="athing submission" id="49685253">
+          - generic [ref=f1e295]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e296]: <span class="rank">
+          - text: 9.</span></td>
+          - generic [ref=f1e297]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e298]:
+            - text: <a id='up_49685253' href='
+            - link "vote?id=49685253&amp;how=up&amp;goto=news" [ref=f1e299] [cursor=pointer]:
+              - /url: vote?id=49685253&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e300]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e301]: <td class="title">
+          - generic [ref=f1e302]: <span class="titleline">
+          - generic [ref=f1e303]:
+            - text: <a href="
+            - link "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/" [ref=f1e304] [cursor=pointer]:
+              - /url: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
+            - text: "\">"
+          - text: Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</a>
+          - generic [ref=f1e305]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e306]:
+            - text: <a href="
+            - link "from?site=techcrunch.com" [ref=f1e307] [cursor=pointer]:
+              - /url: from?site=techcrunch.com
+            - text: "\">"
+          - generic [ref=f1e308]: <span class="sitestr">
+          - text: techcrunch.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e309]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e310]: <td class="subtext">
+          - generic [ref=f1e311]: <span class="subline">
+          - generic [ref=f1e312]: <span class="score" id="score_49685253">
+          - text: 58 points</span> by
+          - generic [ref=f1e313]:
+            - text: <a href="
+            - link "user?id=TheJCDenton" [ref=f1e314] [cursor=pointer]:
+              - /url: user?id=TheJCDenton
+            - text: "\" class=\"hnuser\">"
+          - text: TheJCDenton</a>
+          - generic [ref=f1e315]: <span class="age" title="2026-09-13T15:44:38">
+          - generic [ref=f1e316]:
+            - text: <a href="
+            - link "item?id=49685253" [ref=f1e317] [cursor=pointer]:
+              - /url: item?id=49685253
+            - text: "\">"
+          - text: 1 hour ago</a></span>
+          - generic [ref=f1e318]: <span id="unv_49685253">
+          - text: </span> |
+          - generic [ref=f1e319]:
+            - text: <a href="
+            - link "hide?id=49685253&amp;goto=news" [ref=f1e320] [cursor=pointer]:
+              - /url: hide?id=49685253&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e321]:
+            - text: <a href="
+            - link "item?id=49685253" [ref=f1e322] [cursor=pointer]:
+              - /url: item?id=49685253
+            - text: "\">"
+          - text: 15&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e323]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e324]: <tr class="athing submission" id="49684196">
+          - generic [ref=f1e325]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e326]: <span class="rank">
+          - text: 10.</span></td>
+          - generic [ref=f1e327]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e328]:
+            - text: <a id='up_49684196' href='
+            - link "vote?id=49684196&amp;how=up&amp;goto=news" [ref=f1e329] [cursor=pointer]:
+              - /url: vote?id=49684196&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e330]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e331]: <td class="title">
+          - generic [ref=f1e332]: <span class="titleline">
+          - generic [ref=f1e333]:
+            - text: <a href="
+            - link "https://paulgraham.com/powerful.html" [ref=f1e334] [cursor=pointer]:
+              - /url: https://paulgraham.com/powerful.html
+            - text: "\">"
+          - text: Making Startups Powerful</a>
+          - generic [ref=f1e335]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e336]:
+            - text: <a href="
+            - link "from?site=paulgraham.com" [ref=f1e337] [cursor=pointer]:
+              - /url: from?site=paulgraham.com
+            - text: "\">"
+          - generic [ref=f1e338]: <span class="sitestr">
+          - text: paulgraham.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e339]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e340]: <td class="subtext">
+          - generic [ref=f1e341]: <span class="subline">
+          - generic [ref=f1e342]: <span class="score" id="score_49684196">
+          - text: 24 points</span> by
+          - generic [ref=f1e343]:
+            - text: <a href="
+            - link "user?id=tosh" [ref=f1e344] [cursor=pointer]:
+              - /url: user?id=tosh
+            - text: "\" class=\"hnuser\">"
+          - text: tosh</a>
+          - generic [ref=f1e345]: <span class="age" title="2026-09-13T14:09:53">
+          - generic [ref=f1e346]:
+            - text: <a href="
+            - link "item?id=49684196" [ref=f1e347] [cursor=pointer]:
+              - /url: item?id=49684196
+            - text: "\">"
+          - text: 2 hours ago</a></span>
+          - generic [ref=f1e348]: <span id="unv_49684196">
+          - text: </span> |
+          - generic [ref=f1e349]:
+            - text: <a href="
+            - link "hide?id=49684196&amp;goto=news" [ref=f1e350] [cursor=pointer]:
+              - /url: hide?id=49684196&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e351]:
+            - text: <a href="
+            - link "item?id=49684196" [ref=f1e352] [cursor=pointer]:
+              - /url: item?id=49684196
+            - text: "\">"
+          - text: 12&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e353]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e354]: <tr class="athing submission" id="49678969">
+          - generic [ref=f1e355]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e356]: <span class="rank">
+          - text: 11.</span></td>
+          - generic [ref=f1e357]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e358]:
+            - text: <a id='up_49678969' href='
+            - link "vote?id=49678969&amp;how=up&amp;goto=news" [ref=f1e359] [cursor=pointer]:
+              - /url: vote?id=49678969&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e360]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e361]: <td class="title">
+          - generic [ref=f1e362]: <span class="titleline">
+          - generic [ref=f1e363]:
+            - text: <a href="
+            - link "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating" [ref=f1e364] [cursor=pointer]:
+              - /url: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
+            - text: "\">"
+          - text: Why are AI agents lying, cheating and coordinating?</a>
+          - generic [ref=f1e365]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e366]:
+            - text: <a href="
+            - link "from?site=yoshuabengio.org" [ref=f1e367] [cursor=pointer]:
+              - /url: from?site=yoshuabengio.org
+            - text: "\">"
+          - generic [ref=f1e368]: <span class="sitestr">
+          - text: yoshuabengio.org</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e369]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e370]: <td class="subtext">
+          - generic [ref=f1e371]: <span class="subline">
+          - generic [ref=f1e372]: <span class="score" id="score_49678969">
+          - text: 469 points</span> by
+          - generic [ref=f1e373]:
+            - text: <a href="
+            - link "user?id=jonifico" [ref=f1e374] [cursor=pointer]:
+              - /url: user?id=jonifico
+            - text: "\" class=\"hnuser\">"
+          - text: jonifico</a>
+          - generic [ref=f1e375]: <span class="age" title="2026-09-13T01:22:31">
+          - generic [ref=f1e376]:
+            - text: <a href="
+            - link "item?id=49678969" [ref=f1e377] [cursor=pointer]:
+              - /url: item?id=49678969
+            - text: "\">"
+          - text: 15 hours ago</a></span>
+          - generic [ref=f1e378]: <span id="unv_49678969">
+          - text: </span> |
+          - generic [ref=f1e379]:
+            - text: <a href="
+            - link "hide?id=49678969&amp;goto=news" [ref=f1e380] [cursor=pointer]:
+              - /url: hide?id=49678969&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e381]:
+            - text: <a href="
+            - link "item?id=49678969" [ref=f1e382] [cursor=pointer]:
+              - /url: item?id=49678969
+            - text: "\">"
+          - text: 550&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e383]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e384]: <tr class="athing submission" id="49678423">
+          - generic [ref=f1e385]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e386]: <span class="rank">
+          - text: 12.</span></td>
+          - generic [ref=f1e387]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e388]:
+            - text: <a id='up_49678423' href='
+            - link "vote?id=49678423&amp;how=up&amp;goto=news" [ref=f1e389] [cursor=pointer]:
+              - /url: vote?id=49678423&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e390]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e391]: <td class="title">
+          - generic [ref=f1e392]: <span class="titleline">
+          - generic [ref=f1e393]:
+            - text: <a href="
+            - link "https://github.com/FeralFirmware/TailTalk/" [ref=f1e394] [cursor=pointer]:
+              - /url: https://github.com/FeralFirmware/TailTalk/
+            - text: "\">"
+          - text: "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio</a>"
+          - generic [ref=f1e395]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e396]:
+            - text: <a href="
+            - link "from?site=github.com/feralfirmware" [ref=f1e397] [cursor=pointer]:
+              - /url: from?site=github.com/feralfirmware
+            - text: "\">"
+          - generic [ref=f1e398]: <span class="sitestr">
+          - text: github.com/feralfirmware</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e399]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e400]: <td class="subtext">
+          - generic [ref=f1e401]: <span class="subline">
+          - generic [ref=f1e402]: <span class="score" id="score_49678423">
+          - text: 47 points</span> by
+          - generic [ref=f1e403]:
+            - text: <a href="
+            - link "user?id=zdw" [ref=f1e404] [cursor=pointer]:
+              - /url: user?id=zdw
+            - text: "\" class=\"hnuser\">"
+          - text: zdw</a>
+          - generic [ref=f1e405]: <span class="age" title="2026-09-12T23:43:31">
+          - generic [ref=f1e406]:
+            - text: <a href="
+            - link "item?id=49678423" [ref=f1e407] [cursor=pointer]:
+              - /url: item?id=49678423
+            - text: "\">"
+          - text: 4 hours ago</a></span>
+          - generic [ref=f1e408]: <span id="unv_49678423">
+          - text: </span> |
+          - generic [ref=f1e409]:
+            - text: <a href="
+            - link "hide?id=49678423&amp;goto=news" [ref=f1e410] [cursor=pointer]:
+              - /url: hide?id=49678423&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e411]:
+            - text: <a href="
+            - link "item?id=49678423" [ref=f1e412] [cursor=pointer]:
+              - /url: item?id=49678423
+            - text: "\">"
+          - text: 13&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e413]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e414]: <tr class="athing submission" id="49660196">
+          - generic [ref=f1e415]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e416]: <span class="rank">
+          - text: 13.</span></td>
+          - generic [ref=f1e417]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e418]:
+            - text: <a id='up_49660196' href='
+            - link "vote?id=49660196&amp;how=up&amp;goto=news" [ref=f1e419] [cursor=pointer]:
+              - /url: vote?id=49660196&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e420]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e421]: <td class="title">
+          - generic [ref=f1e422]: <span class="titleline">
+          - generic [ref=f1e423]:
+            - text: <a href="
+            - link "https://alanbellows.com/experiments/insult/index.html" [ref=f1e424] [cursor=pointer]:
+              - /url: https://alanbellows.com/experiments/insult/index.html
+            - text: "\">"
+          - text: Alan&#x27;s Random Insult Generator (1999)</a>
+          - generic [ref=f1e425]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e426]:
+            - text: <a href="
+            - link "from?site=alanbellows.com" [ref=f1e427] [cursor=pointer]:
+              - /url: from?site=alanbellows.com
+            - text: "\">"
+          - generic [ref=f1e428]: <span class="sitestr">
+          - text: alanbellows.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e429]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e430]: <td class="subtext">
+          - generic [ref=f1e431]: <span class="subline">
+          - generic [ref=f1e432]: <span class="score" id="score_49660196">
+          - text: 19 points</span> by
+          - generic [ref=f1e433]:
+            - text: <a href="
+            - link "user?id=DamnInteresting" [ref=f1e434] [cursor=pointer]:
+              - /url: user?id=DamnInteresting
+            - text: "\" class=\"hnuser\">"
+          - text: DamnInteresting</a>
+          - generic [ref=f1e435]: <span class="age" title="2026-09-11T15:34:53">
+          - generic [ref=f1e436]:
+            - text: <a href="
+            - link "item?id=49660196" [ref=f1e437] [cursor=pointer]:
+              - /url: item?id=49660196
+            - text: "\">"
+          - text: 2 hours ago</a></span>
+          - generic [ref=f1e438]: <span id="unv_49660196">
+          - text: </span> |
+          - generic [ref=f1e439]:
+            - text: <a href="
+            - link "hide?id=49660196&amp;goto=news" [ref=f1e440] [cursor=pointer]:
+              - /url: hide?id=49660196&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e441]:
+            - text: <a href="
+            - link "item?id=49660196" [ref=f1e442] [cursor=pointer]:
+              - /url: item?id=49660196
+            - text: "\">"
+          - text: 12&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e443]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e444]: <tr class="athing submission" id="49684879">
+          - generic [ref=f1e445]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e446]: <span class="rank">
+          - text: 14.</span></td>
+          - generic [ref=f1e447]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e448]:
+            - text: <a id='up_49684879' href='
+            - link "vote?id=49684879&amp;how=up&amp;goto=news" [ref=f1e449] [cursor=pointer]:
+              - /url: vote?id=49684879&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e450]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e451]: <td class="title">
+          - generic [ref=f1e452]: <span class="titleline">
+          - generic [ref=f1e453]:
+            - text: <a href="
+            - link "https://prior.chat/" [ref=f1e454] [cursor=pointer]:
+              - /url: https://prior.chat/
+            - text: "\" rel=\"nofollow\">"
+          - text: Predictive intelligence to anticipate anything.</a>
+          - generic [ref=f1e455]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e456]:
+            - text: <a href="
+            - link "from?site=prior.chat" [ref=f1e457] [cursor=pointer]:
+              - /url: from?site=prior.chat
+            - text: "\">"
+          - generic [ref=f1e458]: <span class="sitestr">
+          - text: prior.chat</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e459]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e460]: <td class="subtext">
+          - generic [ref=f1e461]: <span class="subline">
+          - generic [ref=f1e462]: <span class="score" id="score_49684879">
+          - text: 11 points</span> by
+          - generic [ref=f1e463]:
+            - text: <a href="
+            - link "user?id=onemarkos" [ref=f1e464] [cursor=pointer]:
+              - /url: user?id=onemarkos
+            - text: "\" class=\"hnuser\">"
+          - text: onemarkos</a>
+          - generic [ref=f1e465]: <span class="age" title="2026-09-13T15:11:22">
+          - generic [ref=f1e466]:
+            - text: <a href="
+            - link "item?id=49684879" [ref=f1e467] [cursor=pointer]:
+              - /url: item?id=49684879
+            - text: "\">"
+          - text: 1 hour ago</a></span>
+          - generic [ref=f1e468]: <span id="unv_49684879">
+          - text: </span> |
+          - generic [ref=f1e469]:
+            - text: <a href="
+            - link "hide?id=49684879&amp;goto=news" [ref=f1e470] [cursor=pointer]:
+              - /url: hide?id=49684879&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e471]:
+            - text: <a href="
+            - link "item?id=49684879" [ref=f1e472] [cursor=pointer]:
+              - /url: item?id=49684879
+            - text: "\">"
+          - text: 15&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e473]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e474]: <tr class="athing submission" id="49681545">
+          - generic [ref=f1e475]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e476]: <span class="rank">
+          - text: 15.</span></td>
+          - generic [ref=f1e477]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e478]:
+            - text: <a id='up_49681545' href='
+            - link "vote?id=49681545&amp;how=up&amp;goto=news" [ref=f1e479] [cursor=pointer]:
+              - /url: vote?id=49681545&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e480]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e481]: <td class="title">
+          - generic [ref=f1e482]: <span class="titleline">
+          - generic [ref=f1e483]:
+            - text: <a href="
+            - link "https://brew.sh/2026/09/13/homebrew-7.0.0/" [ref=f1e484] [cursor=pointer]:
+              - /url: https://brew.sh/2026/09/13/homebrew-7.0.0/
+            - text: "\">"
+          - text: Homebrew 7.0.0</a>
+          - generic [ref=f1e485]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e486]:
+            - text: <a href="
+            - link "from?site=brew.sh" [ref=f1e487] [cursor=pointer]:
+              - /url: from?site=brew.sh
+            - text: "\">"
+          - generic [ref=f1e488]: <span class="sitestr">
+          - text: brew.sh</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e489]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e490]: <td class="subtext">
+          - generic [ref=f1e491]: <span class="subline">
+          - generic [ref=f1e492]: <span class="score" id="score_49681545">
+          - text: 396 points</span> by
+          - generic [ref=f1e493]:
+            - text: <a href="
+            - link "user?id=mikemcquaid" [ref=f1e494] [cursor=pointer]:
+              - /url: user?id=mikemcquaid
+            - text: "\" class=\"hnuser\">"
+          - text: mikemcquaid</a>
+          - generic [ref=f1e495]: <span class="age" title="2026-09-13T08:41:17">
+          - generic [ref=f1e496]:
+            - text: <a href="
+            - link "item?id=49681545" [ref=f1e497] [cursor=pointer]:
+              - /url: item?id=49681545
+            - text: "\">"
+          - text: 8 hours ago</a></span>
+          - generic [ref=f1e498]: <span id="unv_49681545">
+          - text: </span> |
+          - generic [ref=f1e499]:
+            - text: <a href="
+            - link "hide?id=49681545&amp;goto=news" [ref=f1e500] [cursor=pointer]:
+              - /url: hide?id=49681545&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e501]:
+            - text: <a href="
+            - link "item?id=49681545" [ref=f1e502] [cursor=pointer]:
+              - /url: item?id=49681545
+            - text: "\">"
+          - text: 155&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e503]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e504]: <tr class="athing submission" id="49679643">
+          - generic [ref=f1e505]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e506]: <span class="rank">
+          - text: 16.</span></td>
+          - generic [ref=f1e507]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e508]:
+            - text: <a id='up_49679643' href='
+            - link "vote?id=49679643&amp;how=up&amp;goto=news" [ref=f1e509] [cursor=pointer]:
+              - /url: vote?id=49679643&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e510]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e511]: <td class="title">
+          - generic [ref=f1e512]: <span class="titleline">
+          - generic [ref=f1e513]:
+            - text: <a href="
+            - link "https://hyperbo.la/w/aligned-to-whom/" [ref=f1e514] [cursor=pointer]:
+              - /url: https://hyperbo.la/w/aligned-to-whom/
+            - text: "\">"
+          - text: Aligned to whom?</a>
+          - generic [ref=f1e515]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e516]:
+            - text: <a href="
+            - link "from?site=hyperbo.la" [ref=f1e517] [cursor=pointer]:
+              - /url: from?site=hyperbo.la
+            - text: "\">"
+          - generic [ref=f1e518]: <span class="sitestr">
+          - text: hyperbo.la</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e519]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e520]: <td class="subtext">
+          - generic [ref=f1e521]: <span class="subline">
+          - generic [ref=f1e522]: <span class="score" id="score_49679643">
+          - text: 143 points</span> by
+          - generic [ref=f1e523]:
+            - text: <a href="
+            - link "user?id=lopopolo" [ref=f1e524] [cursor=pointer]:
+              - /url: user?id=lopopolo
+            - text: "\" class=\"hnuser\">"
+          - text: lopopolo</a>
+          - generic [ref=f1e525]: <span class="age" title="2026-09-13T03:17:18">
+          - generic [ref=f1e526]:
+            - text: <a href="
+            - link "item?id=49679643" [ref=f1e527] [cursor=pointer]:
+              - /url: item?id=49679643
+            - text: "\">"
+          - text: 13 hours ago</a></span>
+          - generic [ref=f1e528]: <span id="unv_49679643">
+          - text: </span> |
+          - generic [ref=f1e529]:
+            - text: <a href="
+            - link "hide?id=49679643&amp;goto=news" [ref=f1e530] [cursor=pointer]:
+              - /url: hide?id=49679643&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e531]:
+            - text: <a href="
+            - link "item?id=49679643" [ref=f1e532] [cursor=pointer]:
+              - /url: item?id=49679643
+            - text: "\">"
+          - text: 87&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e533]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e534]: <tr class="athing submission" id="49674050">
+          - generic [ref=f1e535]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e536]: <span class="rank">
+          - text: 17.</span></td>
+          - generic [ref=f1e537]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e538]:
+            - text: <a id='up_49674050' href='
+            - link "vote?id=49674050&amp;how=up&amp;goto=news" [ref=f1e539] [cursor=pointer]:
+              - /url: vote?id=49674050&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e540]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e541]: <td class="title">
+          - generic [ref=f1e542]: <span class="titleline">
+          - generic [ref=f1e543]:
+            - text: <a href="
+            - link "https://high5apps.github.io/josm-plugin-website-wizard/" [ref=f1e544] [cursor=pointer]:
+              - /url: https://high5apps.github.io/josm-plugin-website-wizard/
+            - text: "\">"
+          - text: Make your first edit to OpenStreetMap</a>
+          - generic [ref=f1e545]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e546]:
+            - text: <a href="
+            - link "from?site=high5apps.github.io" [ref=f1e547] [cursor=pointer]:
+              - /url: from?site=high5apps.github.io
+            - text: "\">"
+          - generic [ref=f1e548]: <span class="sitestr">
+          - text: high5apps.github.io</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e549]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e550]: <td class="subtext">
+          - generic [ref=f1e551]: <span class="subline">
+          - generic [ref=f1e552]: <span class="score" id="score_49674050">
+          - text: 551 points</span> by
+          - generic [ref=f1e553]:
+            - text: <a href="
+            - link "user?id=juliantigler" [ref=f1e554] [cursor=pointer]:
+              - /url: user?id=juliantigler
+            - text: "\" class=\"hnuser\">"
+          - text: juliantigler</a>
+          - generic [ref=f1e555]: <span class="age" title="2026-09-12T16:25:08">
+          - generic [ref=f1e556]:
+            - text: <a href="
+            - link "item?id=49674050" [ref=f1e557] [cursor=pointer]:
+              - /url: item?id=49674050
+            - text: "\">"
+          - text: 1 day ago</a></span>
+          - generic [ref=f1e558]: <span id="unv_49674050">
+          - text: </span> |
+          - generic [ref=f1e559]:
+            - text: <a href="
+            - link "hide?id=49674050&amp;goto=news" [ref=f1e560] [cursor=pointer]:
+              - /url: hide?id=49674050&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e561]:
+            - text: <a href="
+            - link "item?id=49674050" [ref=f1e562] [cursor=pointer]:
+              - /url: item?id=49674050
+            - text: "\">"
+          - text: 135&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e563]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e564]: <tr class="athing submission" id="49664413">
+          - generic [ref=f1e565]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e566]: <span class="rank">
+          - text: 18.</span></td>
+          - generic [ref=f1e567]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e568]:
+            - text: <a id='up_49664413' href='
+            - link "vote?id=49664413&amp;how=up&amp;goto=news" [ref=f1e569] [cursor=pointer]:
+              - /url: vote?id=49664413&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e570]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e571]: <td class="title">
+          - generic [ref=f1e572]: <span class="titleline">
+          - generic [ref=f1e573]:
+            - text: <a href="
+            - link "https://github.com/OSPreservProject/sprite/blob/master/sprite.txt" [ref=f1e574] [cursor=pointer]:
+              - /url: https://github.com/OSPreservProject/sprite/blob/master/sprite.txt
+            - text: "\" rel=\"nofollow\">"
+          - text: A Brief Retrospective on the Sprite Network Operating System</a>
+          - generic [ref=f1e575]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e576]:
+            - text: <a href="
+            - link "from?site=github.com/ospreservproject" [ref=f1e577] [cursor=pointer]:
+              - /url: from?site=github.com/ospreservproject
+            - text: "\">"
+          - generic [ref=f1e578]: <span class="sitestr">
+          - text: github.com/ospreservproject</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e579]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e580]: <td class="subtext">
+          - generic [ref=f1e581]: <span class="subline">
+          - generic [ref=f1e582]: <span class="score" id="score_49664413">
+          - text: 4 points</span> by
+          - generic [ref=f1e583]:
+            - text: <a href="
+            - link "user?id=EvanAnderson" [ref=f1e584] [cursor=pointer]:
+              - /url: user?id=EvanAnderson
+            - text: "\" class=\"hnuser\">"
+          - text: EvanAnderson</a>
+          - generic [ref=f1e585]: <span class="age" title="2026-09-11T19:52:53">
+          - generic [ref=f1e586]:
+            - text: <a href="
+            - link "item?id=49664413" [ref=f1e587] [cursor=pointer]:
+              - /url: item?id=49664413
+            - text: "\">"
+          - text: 2 hours ago</a></span>
+          - generic [ref=f1e588]: <span id="unv_49664413">
+          - text: </span> |
+          - generic [ref=f1e589]:
+            - text: <a href="
+            - link "hide?id=49664413&amp;goto=news" [ref=f1e590] [cursor=pointer]:
+              - /url: hide?id=49664413&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e591]:
+            - text: <a href="
+            - link "item?id=49664413" [ref=f1e592] [cursor=pointer]:
+              - /url: item?id=49664413
+            - text: "\">"
+          - text: 2&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e593]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e594]: <tr class="athing submission" id="49655450">
+          - generic [ref=f1e595]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e596]: <span class="rank">
+          - text: 19.</span></td>
+          - generic [ref=f1e597]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e598]:
+            - text: <a id='up_49655450' href='
+            - link "vote?id=49655450&amp;how=up&amp;goto=news" [ref=f1e599] [cursor=pointer]:
+              - /url: vote?id=49655450&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e600]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e601]: <td class="title">
+          - generic [ref=f1e602]: <span class="titleline">
+          - generic [ref=f1e603]:
+            - text: <a href="
+            - link "https://00f.net/2026/09/09/base84/" [ref=f1e604] [cursor=pointer]:
+              - /url: https://00f.net/2026/09/09/base84/
+            - text: "\">"
+          - text: Base84 deserves a place in file names</a>
+          - generic [ref=f1e605]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e606]:
+            - text: <a href="
+            - link "from?site=00f.net" [ref=f1e607] [cursor=pointer]:
+              - /url: from?site=00f.net
+            - text: "\">"
+          - generic [ref=f1e608]: <span class="sitestr">
+          - text: 00f.net</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e609]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e610]: <td class="subtext">
+          - generic [ref=f1e611]: <span class="subline">
+          - generic [ref=f1e612]: <span class="score" id="score_49655450">
+          - text: 34 points</span> by
+          - generic [ref=f1e613]:
+            - text: <a href="
+            - link "user?id=kevvok" [ref=f1e614] [cursor=pointer]:
+              - /url: user?id=kevvok
+            - text: "\" class=\"hnuser\">"
+          - text: kevvok</a>
+          - generic [ref=f1e615]: <span class="age" title="2026-09-11T09:06:45">
+          - generic [ref=f1e616]:
+            - text: <a href="
+            - link "item?id=49655450" [ref=f1e617] [cursor=pointer]:
+              - /url: item?id=49655450
+            - text: "\">"
+          - text: 5 hours ago</a></span>
+          - generic [ref=f1e618]: <span id="unv_49655450">
+          - text: </span> |
+          - generic [ref=f1e619]:
+            - text: <a href="
+            - link "hide?id=49655450&amp;goto=news" [ref=f1e620] [cursor=pointer]:
+              - /url: hide?id=49655450&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e621]:
+            - text: <a href="
+            - link "item?id=49655450" [ref=f1e622] [cursor=pointer]:
+              - /url: item?id=49655450
+            - text: "\">"
+          - text: 20&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e623]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e624]: <tr class="athing submission" id="49684101">
+          - generic [ref=f1e625]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e626]: <span class="rank">
+          - text: 20.</span></td>
+          - generic [ref=f1e627]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e628]:
+            - text: <a id='up_49684101' href='
+            - link "vote?id=49684101&amp;how=up&amp;goto=news" [ref=f1e629] [cursor=pointer]:
+              - /url: vote?id=49684101&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e630]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e631]: <td class="title">
+          - generic [ref=f1e632]: <span class="titleline">
+          - generic [ref=f1e633]:
+            - text: <a href="
+            - link "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/" [ref=f1e634] [cursor=pointer]:
+              - /url: https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/
+            - text: "\">"
+          - text: "Key symbols we lost to time, pt. 1: The PC side</a>"
+          - generic [ref=f1e635]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e636]:
+            - text: <a href="
+            - link "from?site=aresluna.org" [ref=f1e637] [cursor=pointer]:
+              - /url: from?site=aresluna.org
+            - text: "\">"
+          - generic [ref=f1e638]: <span class="sitestr">
+          - text: aresluna.org</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e639]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e640]: <td class="subtext">
+          - generic [ref=f1e641]: <span class="subline">
+          - generic [ref=f1e642]: <span class="score" id="score_49684101">
+          - text: 41 points</span> by
+          - generic [ref=f1e643]:
+            - text: <a href="
+            - link "user?id=leephillips" [ref=f1e644] [cursor=pointer]:
+              - /url: user?id=leephillips
+            - text: "\" class=\"hnuser\">"
+          - text: leephillips</a>
+          - generic [ref=f1e645]: <span class="age" title="2026-09-13T14:00:44">
+          - generic [ref=f1e646]:
+            - text: <a href="
+            - link "item?id=49684101" [ref=f1e647] [cursor=pointer]:
+              - /url: item?id=49684101
+            - text: "\">"
+          - text: 3 hours ago</a></span>
+          - generic [ref=f1e648]: <span id="unv_49684101">
+          - text: </span> |
+          - generic [ref=f1e649]:
+            - text: <a href="
+            - link "hide?id=49684101&amp;goto=news" [ref=f1e650] [cursor=pointer]:
+              - /url: hide?id=49684101&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e651]:
+            - text: <a href="
+            - link "item?id=49684101" [ref=f1e652] [cursor=pointer]:
+              - /url: item?id=49684101
+            - text: "\">"
+          - text: 9&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e653]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e654]: <tr class="athing submission" id="49651107">
+          - generic [ref=f1e655]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e656]: <span class="rank">
+          - text: 21.</span></td>
+          - generic [ref=f1e657]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e658]:
+            - text: <a id='up_49651107' href='
+            - link "vote?id=49651107&amp;how=up&amp;goto=news" [ref=f1e659] [cursor=pointer]:
+              - /url: vote?id=49651107&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e660]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e661]: <td class="title">
+          - generic [ref=f1e662]: <span class="titleline">
+          - generic [ref=f1e663]:
+            - text: <a href="
+            - link "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences" [ref=f1e664] [cursor=pointer]:
+              - /url: https://chipsandcheese.com/p/on-binary-translation-and-its-consequences
+            - text: "\">"
+          - text: On Binary Translation and Its Consequences</a>
+          - generic [ref=f1e665]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e666]:
+            - text: <a href="
+            - link "from?site=chipsandcheese.com" [ref=f1e667] [cursor=pointer]:
+              - /url: from?site=chipsandcheese.com
+            - text: "\">"
+          - generic [ref=f1e668]: <span class="sitestr">
+          - text: chipsandcheese.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e669]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e670]: <td class="subtext">
+          - generic [ref=f1e671]: <span class="subline">
+          - generic [ref=f1e672]: <span class="score" id="score_49651107">
+          - text: 30 points</span> by
+          - generic [ref=f1e673]:
+            - text: <a href="
+            - link "user?id=matt_d" [ref=f1e674] [cursor=pointer]:
+              - /url: user?id=matt_d
+            - text: "\" class=\"hnuser\">"
+          - text: matt_d</a>
+          - generic [ref=f1e675]: <span class="age" title="2026-09-10T22:41:57">
+          - generic [ref=f1e676]:
+            - text: <a href="
+            - link "item?id=49651107" [ref=f1e677] [cursor=pointer]:
+              - /url: item?id=49651107
+            - text: "\">"
+          - text: 7 hours ago</a></span>
+          - generic [ref=f1e678]: <span id="unv_49651107">
+          - text: </span> |
+          - generic [ref=f1e679]:
+            - text: <a href="
+            - link "hide?id=49651107&amp;goto=news" [ref=f1e680] [cursor=pointer]:
+              - /url: hide?id=49651107&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e681]:
+            - text: <a href="
+            - link "item?id=49651107" [ref=f1e682] [cursor=pointer]:
+              - /url: item?id=49651107
+            - text: "\">"
+          - text: 14&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e683]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e684]: <tr class="athing submission" id="49679459">
+          - generic [ref=f1e685]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e686]: <span class="rank">
+          - text: 22.</span></td>
+          - generic [ref=f1e687]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e688]:
+            - text: <a id='up_49679459' href='
+            - link "vote?id=49679459&amp;how=up&amp;goto=news" [ref=f1e689] [cursor=pointer]:
+              - /url: vote?id=49679459&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e690]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e691]: <td class="title">
+          - generic [ref=f1e692]: <span class="titleline">
+          - generic [ref=f1e693]:
+            - text: <a href="
+            - link "https://icm.museum/" [ref=f1e694] [cursor=pointer]:
+              - /url: https://icm.museum/
+            - text: "\">"
+          - text: The Interim Computer Museum</a>
+          - generic [ref=f1e695]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e696]:
+            - text: <a href="
+            - link "from?site=icm.museum" [ref=f1e697] [cursor=pointer]:
+              - /url: from?site=icm.museum
+            - text: "\">"
+          - generic [ref=f1e698]: <span class="sitestr">
+          - text: icm.museum</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e699]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e700]: <td class="subtext">
+          - generic [ref=f1e701]: <span class="subline">
+          - generic [ref=f1e702]: <span class="score" id="score_49679459">
+          - text: 151 points</span> by
+          - generic [ref=f1e703]:
+            - text: <a href="
+            - link "user?id=mulmen" [ref=f1e704] [cursor=pointer]:
+              - /url: user?id=mulmen
+            - text: "\" class=\"hnuser\">"
+          - text: mulmen</a>
+          - generic [ref=f1e705]: <span class="age" title="2026-09-13T02:43:57">
+          - generic [ref=f1e706]:
+            - text: <a href="
+            - link "item?id=49679459" [ref=f1e707] [cursor=pointer]:
+              - /url: item?id=49679459
+            - text: "\">"
+          - text: 14 hours ago</a></span>
+          - generic [ref=f1e708]: <span id="unv_49679459">
+          - text: </span> |
+          - generic [ref=f1e709]:
+            - text: <a href="
+            - link "hide?id=49679459&amp;goto=news" [ref=f1e710] [cursor=pointer]:
+              - /url: hide?id=49679459&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e711]:
+            - text: <a href="
+            - link "item?id=49679459" [ref=f1e712] [cursor=pointer]:
+              - /url: item?id=49679459
+            - text: "\">"
+          - text: 19&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e713]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e714]: <tr class="athing submission" id="49683729">
+          - generic [ref=f1e715]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e716]: <span class="rank">
+          - text: 23.</span></td>
+          - generic [ref=f1e717]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e718]:
+            - text: <a id='up_49683729' href='
+            - link "vote?id=49683729&amp;how=up&amp;goto=news" [ref=f1e719] [cursor=pointer]:
+              - /url: vote?id=49683729&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e720]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e721]: <td class="title">
+          - generic [ref=f1e722]: <span class="titleline">
+          - generic [ref=f1e723]:
+            - text: <a href="
+            - link "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg" [ref=f1e724] [cursor=pointer]:
+              - /url: https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg
+            - text: "\">"
+          - text: US Customs supervisor busted for stealing hardware from Homeland Security PCs</a>
+          - generic [ref=f1e725]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e726]:
+            - text: <a href="
+            - link "from?site=tomshardware.com" [ref=f1e727] [cursor=pointer]:
+              - /url: from?site=tomshardware.com
+            - text: "\">"
+          - generic [ref=f1e728]: <span class="sitestr">
+          - text: tomshardware.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e729]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e730]: <td class="subtext">
+          - generic [ref=f1e731]: <span class="subline">
+          - generic [ref=f1e732]: <span class="score" id="score_49683729">
+          - text: 88 points</span> by
+          - generic [ref=f1e733]:
+            - text: <a href="
+            - link "user?id=Levitating" [ref=f1e734] [cursor=pointer]:
+              - /url: user?id=Levitating
+            - text: "\" class=\"hnuser\">"
+          - text: Levitating</a>
+          - generic [ref=f1e735]: <span class="age" title="2026-09-13T13:24:28">
+          - generic [ref=f1e736]:
+            - text: <a href="
+            - link "item?id=49683729" [ref=f1e737] [cursor=pointer]:
+              - /url: item?id=49683729
+            - text: "\">"
+          - text: 3 hours ago</a></span>
+          - generic [ref=f1e738]: <span id="unv_49683729">
+          - text: </span> |
+          - generic [ref=f1e739]:
+            - text: <a href="
+            - link "hide?id=49683729&amp;goto=news" [ref=f1e740] [cursor=pointer]:
+              - /url: hide?id=49683729&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e741]:
+            - text: <a href="
+            - link "item?id=49683729" [ref=f1e742] [cursor=pointer]:
+              - /url: item?id=49683729
+            - text: "\">"
+          - text: 72&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e743]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e744]: <tr class="athing submission" id="49640913">
+          - generic [ref=f1e745]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e746]: <span class="rank">
+          - text: 24.</span></td>
+          - generic [ref=f1e747]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e748]:
+            - text: <a id='up_49640913' href='
+            - link "vote?id=49640913&amp;how=up&amp;goto=news" [ref=f1e749] [cursor=pointer]:
+              - /url: vote?id=49640913&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e750]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e751]: <td class="title">
+          - generic [ref=f1e752]: <span class="titleline">
+          - generic [ref=f1e753]:
+            - text: <a href="
+            - link "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77" [ref=f1e754] [cursor=pointer]:
+              - /url: https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77
+            - text: "\">"
+          - text: I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant</a>
+          - generic [ref=f1e755]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e756]:
+            - text: <a href="
+            - link "from?site=medium.com/ivangomezarnedo" [ref=f1e757] [cursor=pointer]:
+              - /url: from?site=medium.com/ivangomezarnedo
+            - text: "\">"
+          - generic [ref=f1e758]: <span class="sitestr">
+          - text: medium.com/ivangomezarnedo</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e759]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e760]: <td class="subtext">
+          - generic [ref=f1e761]: <span class="subline">
+          - generic [ref=f1e762]: <span class="score" id="score_49640913">
+          - text: 142 points</span> by
+          - generic [ref=f1e763]:
+            - text: <a href="
+            - link "user?id=ichacas" [ref=f1e764] [cursor=pointer]:
+              - /url: user?id=ichacas
+            - text: "\" class=\"hnuser\">"
+          - text: ichacas</a>
+          - generic [ref=f1e765]: <span class="age" title="2026-09-10T09:32:17">
+          - generic [ref=f1e766]:
+            - text: <a href="
+            - link "item?id=49640913" [ref=f1e767] [cursor=pointer]:
+              - /url: item?id=49640913
+            - text: "\">"
+          - text: 14 hours ago</a></span>
+          - generic [ref=f1e768]: <span id="unv_49640913">
+          - text: </span> |
+          - generic [ref=f1e769]:
+            - text: <a href="
+            - link "hide?id=49640913&amp;goto=news" [ref=f1e770] [cursor=pointer]:
+              - /url: hide?id=49640913&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e771]:
+            - text: <a href="
+            - link "item?id=49640913" [ref=f1e772] [cursor=pointer]:
+              - /url: item?id=49640913
+            - text: "\">"
+          - text: 67&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e773]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e774]: <tr class="athing submission" id="49619848">
+          - generic [ref=f1e775]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e776]: <span class="rank">
+          - text: 25.</span></td>
+          - generic [ref=f1e777]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e778]:
+            - text: <a id='up_49619848' href='
+            - link "vote?id=49619848&amp;how=up&amp;goto=news" [ref=f1e779] [cursor=pointer]:
+              - /url: vote?id=49619848&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e780]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e781]: <td class="title">
+          - generic [ref=f1e782]: <span class="titleline">
+          - generic [ref=f1e783]:
+            - text: <a href="
+            - link "https://dunstanorchard.com/apple-ipod-engraver/" [ref=f1e784] [cursor=pointer]:
+              - /url: https://dunstanorchard.com/apple-ipod-engraver/
+            - text: "\">"
+          - text: Apple iPod Engraver (2019)</a>
+          - generic [ref=f1e785]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e786]:
+            - text: <a href="
+            - link "from?site=dunstanorchard.com" [ref=f1e787] [cursor=pointer]:
+              - /url: from?site=dunstanorchard.com
+            - text: "\">"
+          - generic [ref=f1e788]: <span class="sitestr">
+          - text: dunstanorchard.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e789]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e790]: <td class="subtext">
+          - generic [ref=f1e791]: <span class="subline">
+          - generic [ref=f1e792]: <span class="score" id="score_49619848">
+          - text: 266 points</span> by
+          - generic [ref=f1e793]:
+            - text: <a href="
+            - link "user?id=NaOH" [ref=f1e794] [cursor=pointer]:
+              - /url: user?id=NaOH
+            - text: "\" class=\"hnuser\">"
+          - text: NaOH</a>
+          - generic [ref=f1e795]: <span class="age" title="2026-09-09T01:57:37">
+          - generic [ref=f1e796]:
+            - text: <a href="
+            - link "item?id=49619848" [ref=f1e797] [cursor=pointer]:
+              - /url: item?id=49619848
+            - text: "\">"
+          - text: 21 hours ago</a></span>
+          - generic [ref=f1e798]: <span id="unv_49619848">
+          - text: </span> |
+          - generic [ref=f1e799]:
+            - text: <a href="
+            - link "hide?id=49619848&amp;goto=news" [ref=f1e800] [cursor=pointer]:
+              - /url: hide?id=49619848&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e801]:
+            - text: <a href="
+            - link "item?id=49619848" [ref=f1e802] [cursor=pointer]:
+              - /url: item?id=49619848
+            - text: "\">"
+          - text: 71&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e803]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e804]: <tr class="athing submission" id="49644241">
+          - generic [ref=f1e805]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e806]: <span class="rank">
+          - text: 26.</span></td>
+          - generic [ref=f1e807]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e808]:
+            - text: <a id='up_49644241' href='
+            - link "vote?id=49644241&amp;how=up&amp;goto=news" [ref=f1e809] [cursor=pointer]:
+              - /url: vote?id=49644241&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e810]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e811]: <td class="title">
+          - generic [ref=f1e812]: <span class="titleline">
+          - generic [ref=f1e813]:
+            - text: <a href="
+            - link "https://www.autodidacts.io/ode-to-metadata/" [ref=f1e814] [cursor=pointer]:
+              - /url: https://www.autodidacts.io/ode-to-metadata/
+            - text: "\" rel=\"nofollow\">"
+          - text: Ode to Metadata</a>
+          - generic [ref=f1e815]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e816]:
+            - text: <a href="
+            - link "from?site=autodidacts.io" [ref=f1e817] [cursor=pointer]:
+              - /url: from?site=autodidacts.io
+            - text: "\">"
+          - generic [ref=f1e818]: <span class="sitestr">
+          - text: autodidacts.io</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e819]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e820]: <td class="subtext">
+          - generic [ref=f1e821]: <span class="subline">
+          - generic [ref=f1e822]: <span class="score" id="score_49644241">
+          - text: 12 points</span> by
+          - generic [ref=f1e823]:
+            - text: <a href="
+            - link "user?id=surprisetalk" [ref=f1e824] [cursor=pointer]:
+              - /url: user?id=surprisetalk
+            - text: "\" class=\"hnuser\">"
+          - text: surprisetalk</a>
+          - generic [ref=f1e825]: <span class="age" title="2026-09-10T14:24:47">
+          - generic [ref=f1e826]:
+            - text: <a href="
+            - link "item?id=49644241" [ref=f1e827] [cursor=pointer]:
+              - /url: item?id=49644241
+            - text: "\">"
+          - text: 3 hours ago</a></span>
+          - generic [ref=f1e828]: <span id="unv_49644241">
+          - text: </span> |
+          - generic [ref=f1e829]:
+            - text: <a href="
+            - link "hide?id=49644241&amp;goto=news" [ref=f1e830] [cursor=pointer]:
+              - /url: hide?id=49644241&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e831]:
+            - text: <a href="
+            - link "item?id=49644241" [ref=f1e832] [cursor=pointer]:
+              - /url: item?id=49644241
+            - text: "\">"
+          - text: 1&nbsp;comment</a></span></td></tr>
+          - generic [ref=f1e833]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e834]: <tr class="athing submission" id="49677577">
+          - generic [ref=f1e835]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e836]: <span class="rank">
+          - text: 27.</span></td>
+          - generic [ref=f1e837]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e838]:
+            - text: <a id='up_49677577' href='
+            - link "vote?id=49677577&amp;how=up&amp;goto=news" [ref=f1e839] [cursor=pointer]:
+              - /url: vote?id=49677577&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e840]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e841]: <td class="title">
+          - generic [ref=f1e842]: <span class="titleline">
+          - generic [ref=f1e843]:
+            - text: <a href="
+            - link "https://twitter.com/ID_AA_Carmack/status/2098443262214230095" [ref=f1e844] [cursor=pointer]:
+              - /url: https://twitter.com/ID_AA_Carmack/status/2098443262214230095
+            - text: "\">"
+          - text: Don&#x27;t be the out of touch Kung Fu master</a>
+          - generic [ref=f1e845]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e846]:
+            - text: <a href="
+            - link "from?site=twitter.com/id_aa_carmack" [ref=f1e847] [cursor=pointer]:
+              - /url: from?site=twitter.com/id_aa_carmack
+            - text: "\">"
+          - generic [ref=f1e848]: <span class="sitestr">
+          - text: twitter.com/id_aa_carmack</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e849]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e850]: <td class="subtext">
+          - generic [ref=f1e851]: <span class="subline">
+          - generic [ref=f1e852]: <span class="score" id="score_49677577">
+          - text: 219 points</span> by
+          - generic [ref=f1e853]:
+            - text: <a href="
+            - link "user?id=dsubburam" [ref=f1e854] [cursor=pointer]:
+              - /url: user?id=dsubburam
+            - text: "\" class=\"hnuser\">"
+          - text: dsubburam</a>
+          - generic [ref=f1e855]: <span class="age" title="2026-09-12T21:51:43">
+          - generic [ref=f1e856]:
+            - text: <a href="
+            - link "item?id=49677577" [ref=f1e857] [cursor=pointer]:
+              - /url: item?id=49677577
+            - text: "\">"
+          - text: 19 hours ago</a></span>
+          - generic [ref=f1e858]: <span id="unv_49677577">
+          - text: </span> |
+          - generic [ref=f1e859]:
+            - text: <a href="
+            - link "hide?id=49677577&amp;goto=news" [ref=f1e860] [cursor=pointer]:
+              - /url: hide?id=49677577&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e861]:
+            - text: <a href="
+            - link "item?id=49677577" [ref=f1e862] [cursor=pointer]:
+              - /url: item?id=49677577
+            - text: "\">"
+          - text: 304&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e863]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e864]: <tr class="athing submission" id="49682087">
+          - generic [ref=f1e865]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e866]: <span class="rank">
+          - text: 28.</span></td>
+          - generic [ref=f1e867]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e868]:
+            - text: <a id='up_49682087' href='
+            - link "vote?id=49682087&amp;how=up&amp;goto=news" [ref=f1e869] [cursor=pointer]:
+              - /url: vote?id=49682087&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e870]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e871]: <td class="title">
+          - generic [ref=f1e872]: <span class="titleline">
+          - generic [ref=f1e873]:
+            - text: <a href="
+            - link "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/" [ref=f1e874] [cursor=pointer]:
+              - /url: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
+            - text: "\">"
+          - text: Revolut confirms customer data breach through fake government requests</a>
+          - generic [ref=f1e875]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e876]:
+            - text: <a href="
+            - link "from?site=techcrunch.com" [ref=f1e877] [cursor=pointer]:
+              - /url: from?site=techcrunch.com
+            - text: "\">"
+          - generic [ref=f1e878]: <span class="sitestr">
+          - text: techcrunch.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e879]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e880]: <td class="subtext">
+          - generic [ref=f1e881]: <span class="subline">
+          - generic [ref=f1e882]: <span class="score" id="score_49682087">
+          - text: 140 points</span> by
+          - generic [ref=f1e883]:
+            - text: <a href="
+            - link "user?id=tdrz" [ref=f1e884] [cursor=pointer]:
+              - /url: user?id=tdrz
+            - text: "\" class=\"hnuser\">"
+          - text: tdrz</a>
+          - generic [ref=f1e885]: <span class="age" title="2026-09-13T09:59:58">
+          - generic [ref=f1e886]:
+            - text: <a href="
+            - link "item?id=49682087" [ref=f1e887] [cursor=pointer]:
+              - /url: item?id=49682087
+            - text: "\">"
+          - text: 7 hours ago</a></span>
+          - generic [ref=f1e888]: <span id="unv_49682087">
+          - text: </span> |
+          - generic [ref=f1e889]:
+            - text: <a href="
+            - link "hide?id=49682087&amp;goto=news" [ref=f1e890] [cursor=pointer]:
+              - /url: hide?id=49682087&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e891]:
+            - text: <a href="
+            - link "item?id=49682087" [ref=f1e892] [cursor=pointer]:
+              - /url: item?id=49682087
+            - text: "\">"
+          - text: 96&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e893]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e894]: <tr class="athing submission" id="49673098">
+          - generic [ref=f1e895]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e896]: <span class="rank">
+          - text: 29.</span></td>
+          - generic [ref=f1e897]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e898]:
+            - text: <a id='up_49673098' href='
+            - link "vote?id=49673098&amp;how=up&amp;goto=news" [ref=f1e899] [cursor=pointer]:
+              - /url: vote?id=49673098&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e900]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e901]: <td class="title">
+          - generic [ref=f1e902]: <span class="titleline">
+          - generic [ref=f1e903]:
+            - text: <a href="
+            - link "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai" [ref=f1e904] [cursor=pointer]:
+              - /url: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai
+            - text: "\">"
+          - text: Nvidia is the central bank of AI</a>
+          - generic [ref=f1e905]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e906]:
+            - text: <a href="
+            - link "from?site=economist.com" [ref=f1e907] [cursor=pointer]:
+              - /url: from?site=economist.com
+            - text: "\">"
+          - generic [ref=f1e908]: <span class="sitestr">
+          - text: economist.com</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e909]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e910]: <td class="subtext">
+          - generic [ref=f1e911]: <span class="subline">
+          - generic [ref=f1e912]: <span class="score" id="score_49673098">
+          - text: 538 points</span> by
+          - generic [ref=f1e913]:
+            - text: <a href="
+            - link "user?id=tolugenius" [ref=f1e914] [cursor=pointer]:
+              - /url: user?id=tolugenius
+            - text: "\" class=\"hnuser\">"
+          - text: tolugenius</a>
+          - generic [ref=f1e915]: <span class="age" title="2026-09-12T15:08:27">
+          - generic [ref=f1e916]:
+            - text: <a href="
+            - link "item?id=49673098" [ref=f1e917] [cursor=pointer]:
+              - /url: item?id=49673098
+            - text: "\">"
+          - text: 1 day ago</a></span>
+          - generic [ref=f1e918]: <span id="unv_49673098">
+          - text: </span> |
+          - generic [ref=f1e919]:
+            - text: <a href="
+            - link "hide?id=49673098&amp;goto=news" [ref=f1e920] [cursor=pointer]:
+              - /url: hide?id=49673098&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e921]:
+            - text: <a href="
+            - link "item?id=49673098" [ref=f1e922] [cursor=pointer]:
+              - /url: item?id=49673098
+            - text: "\">"
+          - text: 383&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e923]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e924]: <tr class="athing submission" id="49625056">
+          - generic [ref=f1e925]: <td align="right" valign="top" class="title">
+          - generic [ref=f1e926]: <span class="rank">
+          - text: 30.</span></td>
+          - generic [ref=f1e927]: <td valign="top" class="votelinks">
+          - text: <center>
+          - generic [ref=f1e928]:
+            - text: <a id='up_49625056' href='
+            - link "vote?id=49625056&amp;how=up&amp;goto=news" [ref=f1e929] [cursor=pointer]:
+              - /url: vote?id=49625056&how=up&goto=news
+            - text: "'>"
+          - generic [ref=f1e930]: <div class='votearrow' title='upvote'>
+          - text: </div></a></center></td>
+          - generic [ref=f1e931]: <td class="title">
+          - generic [ref=f1e932]: <span class="titleline">
+          - generic [ref=f1e933]:
+            - text: <a href="
+            - link "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/" [ref=f1e934] [cursor=pointer]:
+              - /url: https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/
+            - text: "\">"
+          - text: Stabilizing Rust&#x27;s Never Type</a>
+          - generic [ref=f1e935]: <span class="sitebit comhead">
+          - text: (
+          - generic [ref=f1e936]:
+            - text: <a href="
+            - link "from?site=lwn.net" [ref=f1e937] [cursor=pointer]:
+              - /url: from?site=lwn.net
+            - text: "\">"
+          - generic [ref=f1e938]: <span class="sitestr">
+          - text: lwn.net</span></a>)</span></span></td></tr><tr>
+          - generic [ref=f1e939]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e940]: <td class="subtext">
+          - generic [ref=f1e941]: <span class="subline">
+          - generic [ref=f1e942]: <span class="score" id="score_49625056">
+          - text: 232 points</span> by
+          - generic [ref=f1e943]:
+            - text: <a href="
+            - link "user?id=cjd8" [ref=f1e944] [cursor=pointer]:
+              - /url: user?id=cjd8
+            - text: "\" class=\"hnuser\">"
+          - text: cjd8</a>
+          - generic [ref=f1e945]: <span class="age" title="2026-09-09T11:57:45">
+          - generic [ref=f1e946]:
+            - text: <a href="
+            - link "item?id=49625056" [ref=f1e947] [cursor=pointer]:
+              - /url: item?id=49625056
+            - text: "\">"
+          - text: 23 hours ago</a></span>
+          - generic [ref=f1e948]: <span id="unv_49625056">
+          - text: </span> |
+          - generic [ref=f1e949]:
+            - text: <a href="
+            - link "hide?id=49625056&amp;goto=news" [ref=f1e950] [cursor=pointer]:
+              - /url: hide?id=49625056&goto=news
+            - text: "\">"
+          - text: hide</a> |
+          - generic [ref=f1e951]:
+            - text: <a href="
+            - link "item?id=49625056" [ref=f1e952] [cursor=pointer]:
+              - /url: item?id=49625056
+            - text: "\">"
+          - text: 90&nbsp;comments</a></span></td></tr>
+          - generic [ref=f1e953]: <tr class="spacer" style="height:5px">
+          - text: </tr>
+          - generic [ref=f1e954]: <tr class="morespace" style="height:10px">
+          - text: </tr><tr>
+          - generic [ref=f1e955]: <td colspan="2">
+          - text: </td>
+          - generic [ref=f1e956]: <td class='title'>
+          - generic [ref=f1e957]:
+            - text: <a href='
+            - link "?p=2" [ref=f1e958] [cursor=pointer]:
+              - /url: "?p=2"
+            - text: "' class='morelink' rel='next'>"
+          - text: More</a></td></tr></table></td></tr><tr><td>
+          - generic [ref=f1e959]:
+            - text: <img src="
+            - link "s.gif" [ref=f1e960] [cursor=pointer]:
+              - /url: s.gif
+            - text: "\" height=\"10\" width=\"0\">"
+          - generic [ref=f1e961]: <table width="100%" cellspacing="0" cellpadding="1">
+          - text: <tr>
+          - generic [ref=f1e962]: <td bgcolor="#ff6600">
+          - text: </td></tr></table><br>
+      - row [ref=f1e963]:
+        - cell "2" [ref=f1e964]
+        - cell "<center><span class=\"yclinks\"><a href=\"newsguidelines.html\">Guidelines</a> | <a href=\"newsfaq.html\">FAQ</a> | <a href=\"lists\">Lists</a> | <a href=\"https://github.com/HackerNews/API\">API</a> | <a href=\"security.html\">Security</a> | <a href=\"https://www.ycombinator.com/legal/\">Legal</a> | <a href=\"https://www.ycombinator.com/apply/\">Apply to YC</a> | <a href=\"mailto:hn@ycombinator.com\">Contact</a></span><br><br>" [ref=f1e965]:
+          - text: <center>
+          - generic [ref=f1e966]: <span class="yclinks">
+          - generic [ref=f1e967]:
+            - text: <a href="
+            - link "newsguidelines.html" [ref=f1e968] [cursor=pointer]:
+              - /url: newsguidelines.html
+            - text: "\">"
+          - text: Guidelines</a> |
+          - generic [ref=f1e969]:
+            - text: <a href="
+            - link "newsfaq.html" [ref=f1e970] [cursor=pointer]:
+              - /url: newsfaq.html
+            - text: "\">"
+          - text: FAQ</a> |
+          - generic [ref=f1e971]:
+            - text: <a href="
+            - link "lists" [ref=f1e972] [cursor=pointer]:
+              - /url: lists
+            - text: "\">"
+          - text: Lists</a> |
+          - generic [ref=f1e973]:
+            - text: <a href="
+            - link "https://github.com/HackerNews/API" [ref=f1e974] [cursor=pointer]:
+              - /url: https://github.com/HackerNews/API
+            - text: "\">"
+          - text: API</a> |
+          - generic [ref=f1e975]:
+            - text: <a href="
+            - link "security.html" [ref=f1e976] [cursor=pointer]:
+              - /url: security.html
+            - text: "\">"
+          - text: Security</a> |
+          - generic [ref=f1e977]:
+            - text: <a href="
+            - link "https://www.ycombinator.com/legal/" [ref=f1e978] [cursor=pointer]:
+              - /url: https://www.ycombinator.com/legal/
+            - text: "\">"
+          - text: Legal</a> |
+          - generic [ref=f1e979]:
+            - text: <a href="
+            - link "https://www.ycombinator.com/apply/" [ref=f1e980] [cursor=pointer]:
+              - /url: https://www.ycombinator.com/apply/
+            - text: "\">"
+          - text: Apply to YC</a> |
+          - generic [ref=f1e981]:
+            - text: <a href="
+            - link "mailto:hn@ycombinator.com" [ref=f1e982] [cursor=pointer]:
+              - /url: mailto:hn@ycombinator.com
+            - text: "\">"
+          - text: Contact</a></span><br><br>
+      - row [ref=f1e983]:
+        - cell "3" [ref=f1e984]
+        - 'cell "<form method=\"get\" action=\"//hn.algolia.com/\">Search: <input type=\"text\" name=\"q\" size=\"17\" autocorrect=\"off\" spellcheck=\"false\" autocapitalize=\"off\" autocomplete=\"off\"></form></center></td></tr></table></center></body><script type=\"text/javascript\" src=\"hn.js?1tF8I2e7s6Rn5wBtSfGc\"></script></html>" [ref=f1e985]':
+          - generic [ref=f1e986]: <form method="get" action="//hn.algolia.com/">
+          - text: "Search:"
+          - generic [ref=f1e987]: <input type="text" name="q" size="17" autocorrect="off" spellcheck="false" autocapitalize="off" autocomplete="off">
+          - text: </form></center></td></tr></table></center></body>
+          - generic [ref=f1e988]:
+            - text: <script type="text/javascript" src="
+            - link "hn.js?1tF8I2e7s6Rn5wBtSfGc" [ref=f1e989] [cursor=pointer]:
+              - /url: hn.js?1tF8I2e7s6Rn5wBtSfGc
+            - text: "\">"
+          - text: </script></html>

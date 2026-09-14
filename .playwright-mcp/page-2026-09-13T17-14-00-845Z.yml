@@ -1,0 +1,435 @@
+- generic [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - button "Main menu" [ref=e6] [cursor=pointer]
+        - link "Google" [ref=e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=e13]:
+        - generic:
+          - generic:
+            - generic:
+              - button "Skip to main content" [ref=e14]
+              - button "Accessibility feedback" [ref=e17]
+        - generic [ref=e26]:
+          - button "Change appearance" [ref=e28]
+          - tooltip [aria-hidden] [ref=e31]: Change appearance
+      - generic [ref=e33]:
+        - button "Google apps" [ref=e37] [cursor=pointer]
+        - link "Sign in" [ref=e41] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https://www.google.com/travel/flights?q%3DBengaluru%2Bto%2BRanchi%2Bleaving%2B13%2BOct%2B2026%2Breturning%2B20%2BOct%2B2026&followup=https://www.google.com/travel/flights?q%3DBengaluru%2Bto%2BRanchi%2Bleaving%2B13%2BOct%2B2026%2Breturning%2B20%2BOct%2B2026&ec=GAZAlQM
+  - generic [ref=e49]:
+    - generic [aria-hidden] [ref=e51]:
+      - generic [ref=e52]: Loading results
+      - progressbar [aria-hidden] [ref=e53]
+    - generic [ref=e60]:
+      - search [ref=e61]:
+        - heading "Flight search" [level=1] [ref=e62]
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - combobox "Change ticket type. Round trip" [ref=e69] [cursor=pointer]:
+              - generic [aria-hidden]:
+                - generic: Round trip
+            - button "1 passenger, change number of passengers." [ref=e75]:
+              - generic [ref=e78]: "1"
+            - combobox "Change seating class. Economy" [ref=e88] [cursor=pointer]:
+              - generic [aria-hidden]:
+                - generic: Economy
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - generic [ref=e97]:
+                - combobox "Where from?" [ref=e98]: Bengaluru
+                - generic [aria-hidden] [ref=e100]: Bengaluru
+              - button "Swap origin and destination." [ref=e105] [cursor=pointer]
+              - generic [ref=e113]:
+                - combobox "Where to?" [ref=e114]: Ranchi
+                - generic [aria-hidden] [ref=e116]: Ranchi
+            - generic [ref=e128]:
+              - generic [ref=e130]:
+                - textbox "Departure" [ref=e135]: Tue, Oct 13
+                - button [aria-hidden] [ref=e138]
+                - button [aria-hidden] [ref=e145]
+              - generic [ref=e152]:
+                - textbox "Return" [ref=e153]: Tue, Oct 20
+                - button [aria-hidden] [ref=e156]
+                - button [aria-hidden] [ref=e163]
+          - heading "Filters" [level=2] [ref=e169]
+          - generic [ref=e172]:
+            - button "All filters" [ref=e175]
+            - generic [ref=e183]:
+              - button "Stops, Not selected" [ref=e186]:
+                - generic [ref=e189]: Stops
+              - button "Airlines, Not selected" [ref=e196]:
+                - generic [ref=e199]: Airlines
+              - button "Bags, Not selected" [ref=e206]:
+                - generic [ref=e209]: Bags
+              - button "Price, Not selected" [ref=e216]:
+                - generic [ref=e219]: Price
+              - button "Times, Not selected" [ref=e226]:
+                - generic [ref=e229]: Times
+              - button "Emissions, Not selected" [ref=e236]:
+                - generic [ref=e239]: Emissions
+              - button "Connecting airports, Not selected" [ref=e246]:
+                - generic [ref=e249]: Connecting airports
+              - button "Duration, Not selected" [ref=e256]:
+                - generic [ref=e259]: Duration
+      - main [ref=e264]:
+        - heading "Search results" [level=2] [ref=e265]
+        - generic [ref=e899]: 8 results returned.
+        - generic [ref=e267]:
+          - tablist [ref=e268]:
+            - tab [selected] [ref=e269] [cursor=pointer]:
+              - generic [ref=e270]:
+                - text: Best
+                - button "Learn more about ranking" [ref=e276]
+            - tab "Cheapest from 21249 Indian rupees Learn more about ranking" [ref=e1057] [cursor=pointer]:
+              - generic [ref=e281]:
+                - text: Cheapest
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - text: from
+                    - generic [ref=e1058]: ₹21,249
+                  - button "Learn more about ranking" [ref=e307]
+          - tabpanel "BestLearn more about ranking" [ref=e311]:
+            - generic [ref=e312]:
+              - heading "Top departing flights" [level=3] [ref=e313]
+              - generic [ref=e314]:
+                - generic [ref=e315]:
+                  - text: Ranked based on price and convenience
+                  - button "Learn more about ranking" [ref=e319] [cursor=pointer]
+                  - text: Prices include required taxes + fees for 1 adult.
+                  - generic [ref=e323]:
+                    - text: Optional charges and
+                    - button "bag fees" [ref=e324] [cursor=pointer]
+                    - text: may apply.
+                    - generic [ref=e325]:
+                      - button "Passenger assistance" [ref=e326] [cursor=pointer]
+                      - text: info.
+                - button "Sorted by top flights, Change sort order." [ref=e331]:
+                  - generic [ref=e334]: Sorted by top flights
+              - list [ref=e337]:
+                - listitem [ref=e338]:
+                  - generic [ref=e339]:
+                    - link "From 21335 Indian rupees round trip total. Nonstop flight with IndiGo. Leaves Kempegowda International Airport Bengaluru at 5:45 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:10 PM on Tuesday, October 13. Total duration 2 hr 25 min. Select flight"
+                    - generic [ref=e341] [cursor=pointer]:
+                      - generic [ref=e343]:
+                        - generic [ref=e345]:
+                          - generic "Leaves Kempegowda International Airport Bengaluru at 5:45 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:10 PM on Tuesday, October 13." [ref=e347]:
+                            - 'generic "Departure time: 5:45 PM." [ref=e1061]': 5:45 PM
+                            - text: –
+                            - 'generic "Arrival time: 8:10 PM." [ref=e1064]': 8:10 PM
+                          - generic [ref=e354]: IndiGo
+                        - generic [ref=e355]:
+                          - generic "Total duration 2 hr 25 min." [ref=e356]: 2 hr 25 min
+                          - generic [aria-hidden] [ref=e357]:
+                            - generic [ref=e358]: BLR
+                            - text: –
+                            - generic [ref=e361]: IXR
+                        - generic "Nonstop flight." [ref=e366]: Nonstop
+                        - generic [ref=e368]:
+                          - generic [ref=e370]: 104 kg CO2e
+                          - generic [ref=e371]:
+                            - generic [aria-hidden] [ref=e372]: "-10% emissions"
+                            - 'button "Carbon emissions estimate: 104 kilograms. -10% emissions. Learn more about this emissions estimate" [ref=e373]'
+                        - generic [ref=e376]:
+                          - generic [ref=e377]: ₹21,335
+                          - generic [ref=e379]: round trip
+                      - text: · ··
+                      - generic [ref=e380]:
+                        - generic [ref=e381]:
+                          - text: Avoids as much CO2e as
+                          - generic [ref=e382]: 670 trees absorb in a day
+                        - button "Avoids as much CO2e as 670 trees absorb in a day. Learn more about this calculation." [ref=e383]
+                    - button "Flight details. Leaves Kempegowda International Airport Bengaluru at 5:45 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:10 PM on Tuesday, October 13." [ref=e388]
+                - listitem [ref=e393]:
+                  - generic [ref=e394]:
+                    - link "From 22740 Indian rupees round trip total. Nonstop flight with Air India Express. Leaves Kempegowda International Airport Bengaluru at 6:35 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:55 AM on Tuesday, October 13. Total duration 2 hr 20 min. Select flight"
+                    - generic [ref=e396] [cursor=pointer]:
+                      - generic [ref=e1069]:
+                        - generic [ref=e1071]:
+                          - generic [ref=e1072]:
+                            - generic [ref=e1073]: Departure
+                            - generic [ref=e1074]: ·
+                            - generic [ref=e1075]: Tue, Oct 13
+                          - generic [ref=e1077]:
+                            - generic [ref=e1079]: 119 kg CO2e
+                            - generic [ref=e1080]:
+                              - generic [aria-hidden] [ref=e1081]: Avg emissions
+                              - 'button "Carbon emissions estimate: 119 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e1082]'
+                          - button "Select flight" [ref=e1087]
+                        - generic [ref=e1091]:
+                          - generic [ref=e1092]: ₹22,740
+                          - generic [ref=e1094]: round trip
+                      - text: ··
+                    - button "Flight details. Leaves Kempegowda International Airport Bengaluru at 6:35 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:55 AM on Tuesday, October 13." [expanded] [active] [ref=e437] [cursor=pointer]
+                    - generic [ref=e1097]:
+                      - generic [ref=e1102]:
+                        - 'generic "Departure time: 6:35 AM." [ref=e1105]': 6:35 AM
+                        - generic [ref=e1106]: ·
+                        - text: Kempegowda International Airport Bengaluru
+                        - generic [ref=e1107]: (BLR)
+                      - generic [ref=e1108]: "Travel time: 2 hr 20 min"
+                      - generic [ref=e1109]:
+                        - 'generic "Arrival time: 8:55 AM." [ref=e1112]': 8:55 AM
+                        - generic [ref=e1113]: ·
+                        - text: Birsa Munda Airport, Ranchi
+                        - generic [ref=e1114]: (IXR)
+                      - generic [ref=e1115]:
+                        - generic [ref=e1116]: Air India Express
+                        - generic [ref=e1117]: ·
+                        - generic [ref=e1118]: Economy
+                        - generic [ref=e1119]: ·
+                        - generic [ref=e1120]: Boeing 737MAX 8 Passenger
+                        - generic [ref=e1121]: ·
+                        - generic [ref=e1123]: IX 1239
+                      - list [ref=e1125]:
+                        - listitem [ref=e1126]: Average legroom (30 in)
+                        - listitem [ref=e1129]: In-seat USB outlet
+                        - listitem [ref=e1132]:
+                          - 'generic "Carbon emissions estimate: 119 kilograms" [ref=e1136]': "Emissions estimate: 119 kg CO2e"
+                        - listitem [ref=e1137]:
+                          - generic [ref=e1140]:
+                            - text: "Contrail warming potential: Low"
+                            - button "Learn more about contrails" [ref=e1143] [cursor=pointer]
+                - listitem [ref=e442]:
+                  - generic [ref=e443]:
+                    - link "From 22740 Indian rupees round trip total. Nonstop flight with Air India Express. Leaves Kempegowda International Airport Bengaluru at 9:20 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 11:45 AM on Tuesday, October 13. Total duration 2 hr 25 min. Select flight"
+                    - generic [ref=e445] [cursor=pointer]:
+                      - generic [ref=e447]:
+                        - generic [ref=e449]:
+                          - generic "Leaves Kempegowda International Airport Bengaluru at 9:20 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 11:45 AM on Tuesday, October 13." [ref=e451]:
+                            - 'generic "Departure time: 9:20 AM." [ref=e1149]': 9:20 AM
+                            - text: –
+                            - 'generic "Arrival time: 11:45 AM." [ref=e1152]': 11:45 AM
+                          - generic [ref=e458]: Air India Express
+                        - generic [ref=e459]:
+                          - generic "Total duration 2 hr 25 min." [ref=e460]: 2 hr 25 min
+                          - generic [aria-hidden] [ref=e461]:
+                            - generic [ref=e462]: BLR
+                            - text: –
+                            - generic [ref=e465]: IXR
+                        - generic "Nonstop flight." [ref=e470]: Nonstop
+                        - generic [ref=e472]:
+                          - generic [ref=e474]: 119 kg CO2e
+                          - generic [ref=e475]:
+                            - generic [aria-hidden] [ref=e476]: Avg emissions
+                            - 'button "Carbon emissions estimate: 119 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e477]'
+                        - generic [ref=e480]:
+                          - generic [ref=e481]: ₹22,740
+                          - generic [ref=e483]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Kempegowda International Airport Bengaluru at 9:20 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 11:45 AM on Tuesday, October 13." [ref=e486]
+                - listitem [ref=e491]:
+                  - generic [ref=e492]:
+                    - link "From 22740 Indian rupees round trip total. Nonstop flight with Air India Express. Leaves Kempegowda International Airport Bengaluru at 6:00 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:25 PM on Tuesday, October 13. Total duration 2 hr 25 min. Select flight"
+                    - generic [ref=e494] [cursor=pointer]:
+                      - generic [ref=e496]:
+                        - generic [ref=e498]:
+                          - generic "Leaves Kempegowda International Airport Bengaluru at 6:00 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:25 PM on Tuesday, October 13." [ref=e500]:
+                            - 'generic "Departure time: 6:00 PM." [ref=e1159]': 6:00 PM
+                            - text: –
+                            - 'generic "Arrival time: 8:25 PM." [ref=e1162]': 8:25 PM
+                          - generic [ref=e507]: Air India Express
+                        - generic [ref=e508]:
+                          - generic "Total duration 2 hr 25 min." [ref=e509]: 2 hr 25 min
+                          - generic [aria-hidden] [ref=e510]:
+                            - generic [ref=e511]: BLR
+                            - text: –
+                            - generic [ref=e514]: IXR
+                        - generic "Nonstop flight." [ref=e519]: Nonstop
+                        - generic [ref=e521]:
+                          - generic [ref=e523]: 116 kg CO2e
+                          - generic [ref=e524]:
+                            - generic [aria-hidden] [ref=e525]: Avg emissions
+                            - 'button "Carbon emissions estimate: 116 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e526]'
+                        - generic [ref=e529]:
+                          - generic [ref=e530]: ₹22,740
+                          - generic [ref=e532]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Kempegowda International Airport Bengaluru at 6:00 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:25 PM on Tuesday, October 13." [ref=e535]
+            - generic [ref=e945]:
+              - heading "Price insights" [level=3] [ref=e946]
+              - generic [ref=e947] [cursor=pointer]:
+                - heading "Prices are currently high" [level=4] [ref=e952]
+                - generic [aria-hidden] [ref=e954]: View price history
+                - button "View price history" [ref=e956]
+            - region "Find the best price" [ref=e560]:
+              - generic [ref=e962]:
+                - heading "Track prices" [level=2] [ref=e965]
+                - button [ref=e969] [cursor=pointer]:
+                  - link "Learn more about tracked prices" [ref=e970]
+                - generic [ref=e973]: Track prices from Bengaluru to Ranchi departing 2026-10-13 and returning 2026-10-20
+                - generic [ref=e974]:
+                  - generic [ref=e976] [cursor=pointer]: Oct 13 – 20
+                  - switch "Track prices from Bengaluru to Ranchi departing 2026-10-13 and returning 2026-10-20" [ref=e979] [cursor=pointer]
+                - generic [ref=e990]: Track prices from Bengaluru to Ranchi - Any dates
+                - generic [ref=e992]:
+                  - generic [aria-hidden] [ref=e993] [cursor=pointer]: Any dates
+                  - switch "Track prices from Bengaluru to Ranchi - Any dates" [ref=e996] [cursor=pointer]
+              - generic [ref=e610]:
+                - button "Date grid" [ref=e612]
+                - button "Price graph" [ref=e623]
+            - generic [ref=e636]:
+              - heading "Other departing flights" [level=3] [ref=e637]
+              - list [ref=e638]:
+                - listitem [ref=e639]:
+                  - generic [ref=e640]:
+                    - link "From 22919 Indian rupees round trip total. 1 stop flight with IndiGo. Leaves Kempegowda International Airport Bengaluru at 12:50 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 7:10 PM on Tuesday, October 13. Total duration 6 hr 20 min. Layover (1 of 1) is a 3 hr 5 min layover at Chennai International Airport in Chennai. Select flight"
+                    - generic [ref=e642] [cursor=pointer]:
+                      - generic [ref=e644]:
+                        - generic [ref=e646]:
+                          - generic "Leaves Kempegowda International Airport Bengaluru at 12:50 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 7:10 PM on Tuesday, October 13." [ref=e648]:
+                            - 'generic "Departure time: 12:50 PM." [ref=e1169]': 12:50 PM
+                            - text: –
+                            - 'generic "Arrival time: 7:10 PM." [ref=e1172]': 7:10 PM
+                          - generic [ref=e655]: IndiGo
+                        - generic [ref=e656]:
+                          - generic "Total duration 6 hr 20 min." [ref=e657]: 6 hr 20 min
+                          - generic [aria-hidden] [ref=e658]:
+                            - generic [ref=e659]: BLR
+                            - text: –
+                            - generic [ref=e662]: IXR
+                        - generic [ref=e665]:
+                          - generic "1 stop flight." [ref=e667]: 1 stop
+                          - generic "Layover (1 of 1) is a 3 hr 5 min layover at Chennai International Airport in Chennai." [ref=e668]:
+                            - text: 3 hr 5 min
+                            - generic [ref=e1177]: MAA
+                        - generic [ref=e672]:
+                          - generic [ref=e674]: 129 kg CO2e
+                          - generic [ref=e675]:
+                            - generic [aria-hidden] [ref=e676]: +12% emissions
+                            - 'button "Carbon emissions estimate: 129 kilograms. +12% emissions. Learn more about this emissions estimate" [ref=e677]'
+                        - generic [ref=e680]:
+                          - generic [ref=e681]: ₹22,919
+                          - generic [ref=e683]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Kempegowda International Airport Bengaluru at 12:50 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 7:10 PM on Tuesday, October 13." [ref=e686]
+                - listitem [ref=e691]:
+                  - generic [ref=e692]:
+                    - link "From 24375 Indian rupees round trip total. 1 stop flight with IndiGo. Leaves Kempegowda International Airport Bengaluru at 11:40 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 6:20 PM on Tuesday, October 13. Total duration 6 hr 40 min. Layover (1 of 1) is a 3 hr 20 min layover at Biju Patnaik International Airport in Bhubaneswar. Select flight"
+                    - generic [ref=e694] [cursor=pointer]:
+                      - generic [ref=e696]:
+                        - generic [ref=e698]:
+                          - generic "Leaves Kempegowda International Airport Bengaluru at 11:40 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 6:20 PM on Tuesday, October 13." [ref=e700]:
+                            - 'generic "Departure time: 11:40 AM." [ref=e1181]': 11:40 AM
+                            - text: –
+                            - 'generic "Arrival time: 6:20 PM." [ref=e1184]': 6:20 PM
+                          - generic [ref=e707]: IndiGo
+                        - generic [ref=e708]:
+                          - generic "Total duration 6 hr 40 min." [ref=e709]: 6 hr 40 min
+                          - generic [aria-hidden] [ref=e710]:
+                            - generic [ref=e711]: BLR
+                            - text: –
+                            - generic [ref=e714]: IXR
+                        - generic [ref=e717]:
+                          - generic "1 stop flight." [ref=e719]: 1 stop
+                          - generic "Layover (1 of 1) is a 3 hr 20 min layover at Biju Patnaik International Airport in Bhubaneswar." [ref=e720]:
+                            - text: 3 hr 20 min
+                            - generic [ref=e1189]: BBI
+                        - generic [ref=e724]:
+                          - generic [ref=e726]: 124 kg CO2e
+                          - generic [ref=e727]:
+                            - generic [aria-hidden] [ref=e728]: +8% emissions
+                            - 'button "Carbon emissions estimate: 124 kilograms. +8% emissions. Learn more about this emissions estimate" [ref=e729]'
+                        - generic [ref=e732]:
+                          - generic [ref=e733]: ₹24,375
+                          - generic [ref=e735]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Kempegowda International Airport Bengaluru at 11:40 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 6:20 PM on Tuesday, October 13." [ref=e738]
+                - listitem [ref=e743]:
+                  - generic [ref=e744]:
+                    - link "From 25206 Indian rupees round trip total. 1 stop flight with Air India Express. Leaves Kempegowda International Airport Bengaluru at 11:50 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:20 AM on Wednesday, October 14. Total duration 8 hr 30 min. Layover (1 of 1) is a 4 hr 15 min layover at Chhatrapati Shivaji Maharaj International Airport Mumbai in Mumbai. Select flight"
+                    - generic [ref=e746] [cursor=pointer]:
+                      - generic [ref=e748]:
+                        - generic [ref=e750]:
+                          - generic "Leaves Kempegowda International Airport Bengaluru at 11:50 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:20 AM on Wednesday, October 14." [ref=e752]:
+                            - 'generic "Departure time: 11:50 PM." [ref=e1193]': 11:50 PM
+                            - text: –
+                            - 'generic "Arrival time: 8:20 AM on Wednesday, October 14." [ref=e1196]':
+                              - 'generic "Arrival time: 8:20 AM on Wednesday, October 14." [ref=e1197]':
+                                - text: 8:20 AM
+                                - generic [ref=e1198]: "+1"
+                          - generic [ref=e761]: Air India Express
+                        - generic [ref=e762]:
+                          - generic "Total duration 8 hr 30 min." [ref=e763]: 8 hr 30 min
+                          - generic [aria-hidden] [ref=e764]:
+                            - generic [ref=e765]: BLR
+                            - text: –
+                            - generic [ref=e768]: IXR
+                        - generic [ref=e771]:
+                          - generic "1 stop flight." [ref=e773]: 1 stop
+                          - generic "Layover (1 of 1) is a 4 hr 15 min layover at Chhatrapati Shivaji Maharaj International Airport Mumbai in Mumbai." [ref=e774]:
+                            - text: 4 hr 15 min
+                            - generic [ref=e1203]: BOM
+                        - generic [ref=e778]:
+                          - generic [ref=e780]: 193 kg CO2e
+                          - generic [ref=e781]:
+                            - generic [aria-hidden] [ref=e782]: +68% emissions
+                            - 'button "Carbon emissions estimate: 193 kilograms. +68% emissions. Learn more about this emissions estimate" [ref=e783]'
+                        - generic [ref=e786]:
+                          - generic [ref=e787]: ₹25,206
+                          - generic [ref=e789]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Kempegowda International Airport Bengaluru at 11:50 PM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:20 AM on Wednesday, October 14." [ref=e792]
+                - listitem [ref=e797]:
+                  - generic [ref=e798]:
+                    - link "From 28872 Indian rupees round trip total. 1 stop flight with Air India Express. Leaves Kempegowda International Airport Bengaluru at 1:15 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:25 AM on Tuesday, October 13. Total duration 7 hr 10 min. Layover (1 of 1) is a 2 hr 20 min layover at Indira Gandhi International Airport in New Delhi. Select flight"
+                    - generic [ref=e800] [cursor=pointer]:
+                      - generic [ref=e802]:
+                        - generic [ref=e804]:
+                          - generic "Leaves Kempegowda International Airport Bengaluru at 1:15 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:25 AM on Tuesday, October 13." [ref=e806]:
+                            - 'generic "Departure time: 1:15 AM." [ref=e1207]': 1:15 AM
+                            - text: –
+                            - 'generic "Arrival time: 8:25 AM." [ref=e1210]': 8:25 AM
+                          - generic [ref=e813]: Air India Express
+                        - generic [ref=e814]:
+                          - generic "Total duration 7 hr 10 min." [ref=e815]: 7 hr 10 min
+                          - generic [aria-hidden] [ref=e816]:
+                            - generic [ref=e817]: BLR
+                            - text: –
+                            - generic [ref=e820]: IXR
+                        - generic [ref=e823]:
+                          - generic "1 stop flight." [ref=e825]: 1 stop
+                          - generic "Layover (1 of 1) is a 2 hr 20 min layover at Indira Gandhi International Airport in New Delhi." [ref=e826]:
+                            - text: 2 hr 20 min
+                            - generic [ref=e1215]: DEL
+                        - generic [ref=e830]:
+                          - generic [ref=e832]: 236 kg CO2e
+                          - generic [ref=e833]:
+                            - generic [aria-hidden] [ref=e834]: +105% emissions
+                            - 'button "Carbon emissions estimate: 236 kilograms. +105% emissions. Learn more about this emissions estimate" [ref=e835]'
+                        - generic [ref=e838]:
+                          - generic [ref=e839]: ₹28,872
+                          - generic [ref=e841]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Kempegowda International Airport Bengaluru at 1:15 AM on Tuesday, October 13 and arrives at Birsa Munda Airport, Ranchi at 8:25 AM on Tuesday, October 13." [ref=e844]
+                - listitem [ref=e849]:
+                  - generic [ref=e850] [cursor=pointer]:
+                    - button "View more flights" [ref=e853]
+                    - generic [aria-hidden] [ref=e856]: View more flights
+          - text: · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ··
+      - contentinfo [ref=e859]:
+        - generic [ref=e861]:
+          - button "Language·English (United States)" [ref=e862]
+          - button "Location·India" [ref=e868]
+          - button "Currency INR" [ref=e875]:
+            - generic [aria-hidden] [ref=e888]: Currency·INR
+        - generic [ref=e889]:
+          - link "About Google Travel" [ref=e890] [cursor=pointer]:
+            - /url: https://about.google/?hl=en-US
+            - text: About
+          - link "Privacy" [ref=e891] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-US
+          - link "Terms" [ref=e892] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-US
+          - link "Join user studies" [ref=e893] [cursor=pointer]:
+            - /url: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%2520link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26referral_code%3DUXbJ377133&Q_Language=en-US
+          - link "Feedback" [ref=e894] [cursor=pointer]:
+            - /url: ./#0
+          - link "Help Center" [ref=e895] [cursor=pointer]:
+            - /url: https://support.google.com/travel/?hl=en-US#topic=2475360
+        - paragraph [ref=e897]:
+          - text: Displayed currencies may differ from the currencies used to purchase flights.
+          - link "Learn more about currencies" [ref=e898] [cursor=pointer]:
+            - /url: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=IN
+            - text: Learn more

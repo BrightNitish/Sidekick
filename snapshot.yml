@@ -1,0 +1,6 @@
+- table [ref=e3] [box=59,8,796,1201]:
+  - rowgroup [ref=e4] [box=59,8,796,1201]:
+    - row "Hacker Newsnew | past | comments | ask | show | jobs | submit login" [ref=e5] [box=59,8,796,24]
+    - row [ref=e27] [box=59,32,796,10]
+    - row [ref=e28] [box=59,42,796,1076]
+    - row "Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact Search:" [ref=e667] [box=59,1118,796,91]

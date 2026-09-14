@@ -1,0 +1,464 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e3]:
+    - generic [ref=f3e4]:
+      - generic [ref=f3e5]:
+        - button "Main menu" [ref=f3e6] [cursor=pointer]
+        - link "Google" [ref=f3e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=f3e13]:
+        - generic:
+          - generic:
+            - generic:
+              - button "Skip to main content" [ref=f3e14]
+              - button "Accessibility feedback" [ref=f3e17]
+        - generic [ref=f3e26]:
+          - button "Change appearance" [ref=f3e28]
+          - tooltip [aria-hidden] [ref=f3e31]: Change appearance
+      - generic [ref=f3e33]:
+        - button "Google apps" [ref=f3e37] [cursor=pointer]
+        - link "Sign in" [ref=f3e41] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https://www.google.com/travel/flights?q%3DRanchi%2Bto%2BGurgaon%2Bleaving%2B13%2BOct%2B2026%2Breturning%2B20%2BOct%2B2026&followup=https://www.google.com/travel/flights?q%3DRanchi%2Bto%2BGurgaon%2Bleaving%2B13%2BOct%2B2026%2Breturning%2B20%2BOct%2B2026&ec=GAZAlQM
+  - generic [ref=f3e49]:
+    - generic [ref=f3e51]:
+      - generic [ref=f3e52]: Loading results
+      - progressbar [aria-hidden] [ref=f3e53]
+    - generic [ref=f3e60]:
+      - search [ref=f3e61]:
+        - heading "Flight search" [level=1] [ref=f3e62]
+        - generic [ref=f3e63]:
+          - generic [ref=f3e64]:
+            - combobox "Change ticket type. Round trip" [ref=f3e69] [cursor=pointer]:
+              - generic [aria-hidden]:
+                - generic: Round trip
+            - button "1 passenger, change number of passengers." [ref=f3e75]:
+              - generic [ref=f3e78]: "1"
+            - combobox "Change seating class. Economy" [ref=f3e88] [cursor=pointer]:
+              - generic [aria-hidden]:
+                - generic: Economy
+          - generic [ref=f3e90]:
+            - generic [ref=f3e91]:
+              - generic [ref=f3e97]:
+                - combobox "Where from?" [ref=f3e98]: Ranchi
+                - generic [aria-hidden] [ref=f3e100]: Ranchi
+              - button "Swap origin and destination." [ref=f3e105] [cursor=pointer]
+              - generic [ref=f3e113]:
+                - combobox "Where to?" [ref=f3e114]: Gurugram
+                - generic [aria-hidden] [ref=f3e116]: Gurugram
+            - generic [ref=f3e128]:
+              - generic [ref=f3e130]:
+                - textbox "Departure" [ref=f3e135]: Tue, Oct 13
+                - button [aria-hidden] [ref=f3e138]
+                - button [aria-hidden] [ref=f3e145]
+              - generic [ref=f3e152]:
+                - textbox "Return" [ref=f3e153]: Tue, Oct 20
+                - button [aria-hidden] [ref=f3e156]
+                - button [aria-hidden] [ref=f3e163]
+          - heading "Filters" [level=2] [ref=f3e169]
+          - generic [ref=f3e172]:
+            - button "All filters" [ref=f3e175]
+            - generic [ref=f3e183]:
+              - button "Stops, Not selected" [ref=f3e186]:
+                - generic [ref=f3e189]: Stops
+              - button "Airlines, Not selected" [ref=f3e196]:
+                - generic [ref=f3e199]: Airlines
+              - button "Bags, Not selected" [ref=f3e206]:
+                - generic [ref=f3e209]: Bags
+              - button "Price, Not selected" [ref=f3e216]:
+                - generic [ref=f3e219]: Price
+              - button "Times, Not selected" [ref=f3e226]:
+                - generic [ref=f3e229]: Times
+              - button "Emissions, Not selected" [ref=f3e236]:
+                - generic [ref=f3e239]: Emissions
+              - button "Connecting airports, Not selected" [ref=f3e246]:
+                - generic [ref=f3e249]: Connecting airports
+              - button "Duration, Not selected" [ref=f3e256]:
+                - generic [ref=f3e259]: Duration
+      - main [ref=f3e264]:
+        - heading "Search results" [level=2] [ref=f3e265]
+        - generic [ref=f3e273]:
+          - heading "Travel update" [level=2] [ref=f3e274]
+          - generic [ref=f3e275]: Air traffic disruptions may affect flights.
+        - generic [ref=f3e277]:
+          - tablist [ref=f3e278]:
+            - tab [selected] [ref=f3e279] [cursor=pointer]:
+              - generic [ref=f3e280]:
+                - text: Best
+                - button "Learn more about ranking" [ref=f3e286]
+            - tab "Cheapest from Fetching results 13104 Indian rupees Learn more about ranking" [ref=f3e290] [cursor=pointer]:
+              - generic [ref=f3e291]:
+                - text: Cheapest
+                - generic [ref=f3e293]:
+                  - generic [ref=f3e294]:
+                    - text: from
+                    - generic [ref=f3e295]:
+                      - generic [ref=f3e296]:
+                        - generic [ref=f3e297]: Fetching results
+                        - progressbar [aria-hidden] [ref=f3e298]
+                      - text: ₹13,104
+                  - button "Learn more about ranking" [ref=f3e317]
+          - tabpanel "BestLearn more about ranking" [ref=f3e321]:
+            - generic [ref=f3e322]:
+              - heading "Top departing flights" [level=3] [ref=f3e323]
+              - generic [ref=f3e324]:
+                - generic [ref=f3e325]:
+                  - text: Ranked based on price and convenience
+                  - button "Learn more about ranking" [ref=f3e329] [cursor=pointer]
+                  - text: Prices include required taxes + fees for 1 adult.
+                  - generic [ref=f3e333]:
+                    - text: Optional charges and
+                    - button "bag fees" [ref=f3e334] [cursor=pointer]
+                    - text: may apply.
+                    - generic [ref=f3e335]:
+                      - button "Passenger assistance" [ref=f3e336] [cursor=pointer]
+                      - text: info.
+                - button "Sorted by top flights, Change sort order." [ref=f3e341]:
+                  - generic [ref=f3e344]: Sorted by top flights
+              - list [ref=f3e347]:
+                - listitem [ref=f3e348]:
+                  - generic [ref=f3e349]:
+                    - link "From 13104 Indian rupees round trip total. 1 stop flight with IndiGo. Leaves Birsa Munda Airport, Ranchi at 1:55 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:40 PM on Tuesday, October 13. Total duration 3 hr 45 min. Layover (1 of 1) is a 1 hr 10 min layover at Jay Prakash Narayan International Airport in Patna. Select flight"
+                    - generic [ref=f3e351] [cursor=pointer]:
+                      - generic [ref=f3e353]:
+                        - generic [ref=f3e355]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 1:55 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:40 PM on Tuesday, October 13." [ref=f3e357]:
+                            - 'generic "Departure time: 1:55 PM." [ref=f3e360]': 1:55 PM
+                            - text: –
+                            - 'generic "Arrival time: 5:40 PM." [ref=f3e363]': 5:40 PM
+                          - generic [ref=f3e364]: IndiGo
+                        - generic [ref=f3e365]:
+                          - generic "Total duration 3 hr 45 min." [ref=f3e366]: 3 hr 45 min
+                          - generic [aria-hidden] [ref=f3e367]:
+                            - generic [ref=f3e368]: IXR
+                            - text: –
+                            - generic [ref=f3e371]: DEL
+                        - generic [ref=f3e374]:
+                          - generic "1 stop flight." [ref=f3e376]: 1 stop
+                          - generic "Layover (1 of 1) is a 1 hr 10 min layover at Jay Prakash Narayan International Airport in Patna." [ref=f3e377]:
+                            - text: 1 hr 10 min
+                            - generic [ref=f3e378]: PAT
+                        - generic [ref=f3e381]:
+                          - generic [ref=f3e383]: 111 kg CO2e
+                          - generic [ref=f3e384]:
+                            - generic [aria-hidden] [ref=f3e385]: +35% emissions
+                            - 'button "Carbon emissions estimate: 111 kilograms. +35% emissions. Learn more about this emissions estimate" [ref=f3e386]'
+                        - generic [ref=f3e389]:
+                          - generic [ref=f3e390]: ₹13,104
+                          - generic [ref=f3e392]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 1:55 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:40 PM on Tuesday, October 13." [ref=f3e395]
+                - listitem [ref=f3e400]:
+                  - generic [ref=f3e401]:
+                    - link "From 13300 Indian rupees round trip total. Nonstop flight with IndiGo. Leaves Birsa Munda Airport, Ranchi at 5:05 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 7:05 PM on Tuesday, October 13. Total duration 2 hr. Select flight"
+                    - generic [ref=f3e403] [cursor=pointer]:
+                      - generic [ref=f3e405]:
+                        - generic [ref=f3e407]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 5:05 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 7:05 PM on Tuesday, October 13." [ref=f3e409]:
+                            - 'generic "Departure time: 5:05 PM." [ref=f3e412]': 5:05 PM
+                            - text: –
+                            - 'generic "Arrival time: 7:05 PM." [ref=f3e415]': 7:05 PM
+                          - generic [ref=f3e416]: IndiGo
+                        - generic [ref=f3e417]:
+                          - generic "Total duration 2 hr." [ref=f3e418]: 2 hr
+                          - generic [aria-hidden] [ref=f3e419]:
+                            - generic [ref=f3e420]: IXR
+                            - text: –
+                            - generic [ref=f3e423]: DEL
+                        - generic "Nonstop flight." [ref=f3e428]: Nonstop
+                        - generic [ref=f3e430]:
+                          - generic [ref=f3e432]: 82 kg CO2e
+                          - generic [ref=f3e433]:
+                            - generic [aria-hidden] [ref=f3e434]: Avg emissions
+                            - 'button "Carbon emissions estimate: 82 kilograms. Average emissions. Learn more about this emissions estimate" [ref=f3e435]'
+                        - generic [ref=f3e438]:
+                          - generic [ref=f3e439]: ₹13,300
+                          - generic [ref=f3e441]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 5:05 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 7:05 PM on Tuesday, October 13." [ref=f3e444]
+                - listitem [ref=f3e449]:
+                  - generic [ref=f3e450]:
+                    - link "From 13300 Indian rupees round trip total. Nonstop flight with IndiGo. Leaves Birsa Munda Airport, Ranchi at 8:35 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 10:35 PM on Tuesday, October 13. Total duration 2 hr. Select flight"
+                    - generic [ref=f3e452] [cursor=pointer]:
+                      - generic [ref=f3e454]:
+                        - generic [ref=f3e456]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 8:35 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 10:35 PM on Tuesday, October 13." [ref=f3e458]:
+                            - 'generic "Departure time: 8:35 PM." [ref=f3e461]': 8:35 PM
+                            - text: –
+                            - 'generic "Arrival time: 10:35 PM." [ref=f3e464]': 10:35 PM
+                          - generic [ref=f3e465]: IndiGo
+                        - generic [ref=f3e466]:
+                          - generic "Total duration 2 hr." [ref=f3e467]: 2 hr
+                          - generic [aria-hidden] [ref=f3e468]:
+                            - generic [ref=f3e469]: IXR
+                            - text: –
+                            - generic [ref=f3e472]: DEL
+                        - generic "Nonstop flight." [ref=f3e477]: Nonstop
+                        - generic [ref=f3e479]:
+                          - generic [ref=f3e481]: 82 kg CO2e
+                          - generic [ref=f3e482]:
+                            - generic [aria-hidden] [ref=f3e483]: Avg emissions
+                            - 'button "Carbon emissions estimate: 82 kilograms. Average emissions. Learn more about this emissions estimate" [ref=f3e484]'
+                        - generic [ref=f3e487]:
+                          - generic [ref=f3e488]: ₹13,300
+                          - generic [ref=f3e490]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 8:35 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 10:35 PM on Tuesday, October 13." [ref=f3e493]
+                - listitem [ref=f3e498]:
+                  - generic [ref=f3e499]:
+                    - link "From 14401 Indian rupees round trip total. Nonstop flight with IndiGo. Leaves Birsa Munda Airport, Ranchi at 9:10 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:10 AM on Tuesday, October 13. Total duration 2 hr. Select flight"
+                    - generic [ref=f3e501] [cursor=pointer]:
+                      - generic [ref=f3e503]:
+                        - generic [ref=f3e505]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 9:10 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:10 AM on Tuesday, October 13." [ref=f3e507]:
+                            - 'generic "Departure time: 9:10 AM." [ref=f3e510]': 9:10 AM
+                            - text: –
+                            - 'generic "Arrival time: 11:10 AM." [ref=f3e513]': 11:10 AM
+                          - generic [ref=f3e514]: IndiGo
+                        - generic [ref=f3e515]:
+                          - generic "Total duration 2 hr." [ref=f3e516]: 2 hr
+                          - generic [aria-hidden] [ref=f3e517]:
+                            - generic [ref=f3e518]: IXR
+                            - text: –
+                            - generic [ref=f3e521]: DEL
+                        - generic "Nonstop flight." [ref=f3e526]: Nonstop
+                        - generic [ref=f3e528]:
+                          - generic [ref=f3e530]: 82 kg CO2e
+                          - generic [ref=f3e531]:
+                            - generic [aria-hidden] [ref=f3e532]: Avg emissions
+                            - 'button "Carbon emissions estimate: 82 kilograms. Average emissions. Learn more about this emissions estimate" [ref=f3e533]'
+                        - generic [ref=f3e536]:
+                          - generic [ref=f3e537]: ₹14,401
+                          - generic [ref=f3e539]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 9:10 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:10 AM on Tuesday, October 13." [ref=f3e542]
+                - listitem [ref=f3e547]:
+                  - generic [ref=f3e548]:
+                    - link "From 14401 Indian rupees round trip total. Nonstop flight with IndiGo. Leaves Birsa Munda Airport, Ranchi at 2:50 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 4:45 PM on Tuesday, October 13. Total duration 1 hr 55 min. Select flight"
+                    - generic [ref=f3e550] [cursor=pointer]:
+                      - generic [ref=f3e552]:
+                        - generic [ref=f3e554]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 2:50 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 4:45 PM on Tuesday, October 13." [ref=f3e556]:
+                            - 'generic "Departure time: 2:50 PM." [ref=f3e559]': 2:50 PM
+                            - text: –
+                            - 'generic "Arrival time: 4:45 PM." [ref=f3e562]': 4:45 PM
+                          - generic [ref=f3e563]: IndiGo
+                        - generic [ref=f3e564]:
+                          - generic "Total duration 1 hr 55 min." [ref=f3e565]: 1 hr 55 min
+                          - generic [aria-hidden] [ref=f3e566]:
+                            - generic [ref=f3e567]: IXR
+                            - text: –
+                            - generic [ref=f3e570]: DEL
+                        - generic "Nonstop flight." [ref=f3e575]: Nonstop
+                        - generic [ref=f3e577]:
+                          - generic [ref=f3e579]: 96 kg CO2e
+                          - generic [ref=f3e580]:
+                            - generic [aria-hidden] [ref=f3e581]: +17% emissions
+                            - 'button "Carbon emissions estimate: 96 kilograms. +17% emissions. Learn more about this emissions estimate" [ref=f3e582]'
+                        - generic [ref=f3e585]:
+                          - generic [ref=f3e586]: ₹14,401
+                          - generic [ref=f3e588]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 2:50 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 4:45 PM on Tuesday, October 13." [ref=f3e591]
+                - listitem [ref=f3e596]:
+                  - generic [ref=f3e597]:
+                    - link "Total price is unavailable. Nonstop flight with Air India Express. Leaves Birsa Munda Airport, Ranchi at 9:10 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:20 AM on Tuesday, October 13. Total duration 2 hr 10 min. Select flight"
+                    - generic [ref=f3e599] [cursor=pointer]:
+                      - generic [ref=f3e601]:
+                        - generic [ref=f3e603]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 9:10 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:20 AM on Tuesday, October 13." [ref=f3e605]:
+                            - 'generic "Departure time: 9:10 AM." [ref=f3e608]': 9:10 AM
+                            - text: –
+                            - 'generic "Arrival time: 11:20 AM." [ref=f3e611]': 11:20 AM
+                          - generic [ref=f3e612]: Air India Express
+                        - generic [ref=f3e613]:
+                          - generic "Total duration 2 hr 10 min." [ref=f3e614]: 2 hr 10 min
+                          - generic [aria-hidden] [ref=f3e615]:
+                            - generic [ref=f3e616]: IXR
+                            - text: –
+                            - generic [ref=f3e619]: DEL
+                        - generic "Nonstop flight." [ref=f3e624]: Nonstop
+                        - generic [ref=f3e626]:
+                          - generic [ref=f3e628]: 104 kg CO2e
+                          - generic [ref=f3e629]:
+                            - generic [aria-hidden] [ref=f3e630]: +27% emissions
+                            - 'button "Carbon emissions estimate: 104 kilograms. +27% emissions. Learn more about this emissions estimate" [ref=f3e631]'
+                        - generic [ref=f3e634]: Price unavailable
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 9:10 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:20 AM on Tuesday, October 13." [ref=f3e639]
+            - generic [ref=f3e648]:
+              - heading "Price insights" [level=3] [ref=f3e649]
+              - generic [ref=f3e650] [cursor=pointer]:
+                - heading "Prices are currently typical" [level=4] [ref=f3e655]
+                - generic [aria-hidden] [ref=f3e657]: View price history
+                - button "View price history" [ref=f3e659]
+            - region "Find the best price" [ref=f3e664]:
+              - generic [ref=f3e667]:
+                - heading "Track prices" [level=2] [ref=f3e670]
+                - button [ref=f3e674] [cursor=pointer]:
+                  - link "Learn more about tracked prices" [ref=f3e675]
+                - generic [ref=f3e678]: Track prices from Ranchi to Gurugram departing 2026-10-13 and returning 2026-10-20
+                - generic [ref=f3e679]:
+                  - generic [ref=f3e681] [cursor=pointer]: Oct 13 – 20
+                  - switch "Track prices from Ranchi to Gurugram departing 2026-10-13 and returning 2026-10-20" [ref=f3e684] [cursor=pointer]
+                - generic [ref=f3e695]: Track prices from Ranchi to Gurugram - Any dates
+                - generic [ref=f3e697]:
+                  - generic [aria-hidden] [ref=f3e698] [cursor=pointer]: Any dates
+                  - switch "Track prices from Ranchi to Gurugram - Any dates" [ref=f3e701] [cursor=pointer]
+              - generic [ref=f3e714]:
+                - button "Date grid" [ref=f3e716]
+                - button "Price graph" [ref=f3e727]
+            - generic [ref=f3e740]:
+              - heading "Other departing flights" [level=3] [ref=f3e741]
+              - list [ref=f3e742]:
+                - listitem [ref=f3e743]:
+                  - generic [ref=f3e744]:
+                    - link "From 33424 Indian rupees round trip total. 1 stop flight with IndiGo. Leaves Birsa Munda Airport, Ranchi at 9:25 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:25 AM on Wednesday, October 14. Total duration 8 hr. Business Class Layover (1 of 1) is a 4 hr 15 min layover at Netaji Subhash Chandra Bose International Airport in Kolkata. Select flight"
+                    - generic [ref=f3e746] [cursor=pointer]:
+                      - generic [ref=f3e747]:
+                        - generic [ref=f3e748]:
+                          - generic [ref=f3e750]:
+                            - generic "Leaves Birsa Munda Airport, Ranchi at 9:25 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:25 AM on Wednesday, October 14." [ref=f3e752]:
+                              - 'generic "Departure time: 9:25 PM." [ref=f3e755]': 9:25 PM
+                              - text: –
+                              - 'generic "Arrival time: 5:25 AM on Wednesday, October 14." [ref=f3e758]':
+                                - 'generic "Arrival time: 5:25 AM on Wednesday, October 14." [ref=f3e759]':
+                                  - text: 5:25 AM
+                                  - generic [ref=f3e760]: "+1"
+                            - generic [ref=f3e761]: IndiGo
+                          - generic [ref=f3e762]:
+                            - generic "Total duration 8 hr." [ref=f3e763]: 8 hr
+                            - generic [aria-hidden] [ref=f3e764]:
+                              - generic [ref=f3e765]: IXR
+                              - text: –
+                              - generic [ref=f3e768]: DEL
+                          - generic [ref=f3e771]:
+                            - generic "1 stop flight." [ref=f3e773]: 1 stop
+                            - generic "Layover (1 of 1) is a 4 hr 15 min layover at Netaji Subhash Chandra Bose International Airport in Kolkata." [ref=f3e774]:
+                              - text: 4 hr 15 min
+                              - generic [ref=f3e775]: CCU
+                          - generic [ref=f3e778]:
+                            - generic [ref=f3e780]: 205 kg CO2e
+                            - generic [ref=f3e781]:
+                              - generic [aria-hidden] [ref=f3e782]: +150% emissions
+                              - 'button "Carbon emissions estimate: 205 kilograms. +150% emissions. Learn more about this emissions estimate" [ref=f3e783]'
+                          - generic [ref=f3e786]:
+                            - generic [ref=f3e787]: ₹33,424
+                            - generic [ref=f3e789]: round trip
+                        - generic [ref=f3e790]: Business Class
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 9:25 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:25 AM on Wednesday, October 14." [ref=f3e796]
+                - listitem [ref=f3e801]:
+                  - generic [ref=f3e802]:
+                    - link "Total price is unavailable. 2 stops flight with Air India Express and Air India. Leaves Birsa Munda Airport, Ranchi at 8:50 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 6:00 AM on Wednesday, October 14. Total duration 21 hr 10 min. Layover (1 of 2) is a 4 hr 20 min layover at Chhatrapati Shivaji Maharaj International Airport Mumbai in Mumbai. Layover (2 of 2) is a 7 hr 5 min layover at Dubai International Airport in Dubai. Select flight"
+                    - generic [ref=f3e804] [cursor=pointer]:
+                      - generic [ref=f3e806]:
+                        - generic [ref=f3e808]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 8:50 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 6:00 AM on Wednesday, October 14." [ref=f3e810]:
+                            - 'generic "Departure time: 8:50 AM." [ref=f3e813]': 8:50 AM
+                            - text: –
+                            - 'generic "Arrival time: 6:00 AM on Wednesday, October 14." [ref=f3e816]':
+                              - 'generic "Arrival time: 6:00 AM on Wednesday, October 14." [ref=f3e817]':
+                                - text: 6:00 AM
+                                - generic [ref=f3e818]: "+1"
+                          - generic [ref=f3e819]: Air India Express, Air India
+                        - generic [ref=f3e820]:
+                          - generic "Total duration 21 hr 10 min." [ref=f3e821]: 21 hr 10 min
+                          - generic [aria-hidden] [ref=f3e822]:
+                            - generic [ref=f3e823]: IXR
+                            - text: –
+                            - generic [ref=f3e826]: DEL
+                        - generic [ref=f3e829]:
+                          - generic "2 stops flight." [ref=f3e831]: 2 stops
+                          - generic "Layover (1 of 2) is a 4 hr 20 min layover at Chhatrapati Shivaji Maharaj International Airport Mumbai in Mumbai. Layover (2 of 2) is a 7 hr 5 min layover at Dubai International Airport in Dubai." [ref=f3e839]:
+                            - generic [ref=f3e840]: BOM
+                            - text: ","
+                            - generic [ref=f3e842]: DXB
+                        - generic [ref=f3e845]:
+                          - generic [ref=f3e847]: 450 kg CO2e
+                          - generic [ref=f3e848]:
+                            - generic [aria-hidden] [ref=f3e849]: +449% emissions
+                            - 'button "Carbon emissions estimate: 450 kilograms. +449% emissions. Learn more about this emissions estimate" [ref=f3e850]'
+                        - generic [ref=f3e853]: Price unavailable
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 8:50 AM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 6:00 AM on Wednesday, October 14." [ref=f3e858]
+                - listitem [ref=f3e863]:
+                  - generic [ref=f3e864]:
+                    - link "Total price is unavailable. Nonstop flight with Air India Express. Leaves Birsa Munda Airport, Ranchi at 3:00 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:10 PM on Tuesday, October 13. Total duration 2 hr 10 min. Select flight"
+                    - generic [ref=f3e866] [cursor=pointer]:
+                      - generic [ref=f3e868]:
+                        - generic [ref=f3e870]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 3:00 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:10 PM on Tuesday, October 13." [ref=f3e872]:
+                            - 'generic "Departure time: 3:00 PM." [ref=f3e875]': 3:00 PM
+                            - text: –
+                            - 'generic "Arrival time: 5:10 PM." [ref=f3e878]': 5:10 PM
+                          - generic [ref=f3e879]: Air India Express
+                        - generic [ref=f3e880]:
+                          - generic "Total duration 2 hr 10 min." [ref=f3e881]: 2 hr 10 min
+                          - generic [aria-hidden] [ref=f3e882]:
+                            - generic [ref=f3e883]: IXR
+                            - text: –
+                            - generic [ref=f3e886]: DEL
+                        - generic "Nonstop flight." [ref=f3e891]: Nonstop
+                        - generic [ref=f3e893]:
+                          - generic [ref=f3e895]: 104 kg CO2e
+                          - generic [ref=f3e896]:
+                            - generic [aria-hidden] [ref=f3e897]: +27% emissions
+                            - 'button "Carbon emissions estimate: 104 kilograms. +27% emissions. Learn more about this emissions estimate" [ref=f3e898]'
+                        - generic [ref=f3e901]: Price unavailable
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 3:00 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 5:10 PM on Tuesday, October 13." [ref=f3e906]
+                - listitem [ref=f3e911]:
+                  - generic [ref=f3e912]:
+                    - link "Total price is unavailable. Nonstop flight with Air India Express. Leaves Birsa Munda Airport, Ranchi at 9:10 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:20 PM on Tuesday, October 13. Total duration 2 hr 10 min. Select flight"
+                    - generic [ref=f3e914] [cursor=pointer]:
+                      - generic [ref=f3e916]:
+                        - generic [ref=f3e918]:
+                          - generic "Leaves Birsa Munda Airport, Ranchi at 9:10 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:20 PM on Tuesday, October 13." [ref=f3e920]:
+                            - 'generic "Departure time: 9:10 PM." [ref=f3e923]': 9:10 PM
+                            - text: –
+                            - 'generic "Arrival time: 11:20 PM." [ref=f3e926]': 11:20 PM
+                          - generic [ref=f3e927]: Air India Express
+                        - generic [ref=f3e928]:
+                          - generic "Total duration 2 hr 10 min." [ref=f3e929]: 2 hr 10 min
+                          - generic [aria-hidden] [ref=f3e930]:
+                            - generic [ref=f3e931]: IXR
+                            - text: –
+                            - generic [ref=f3e934]: DEL
+                        - generic "Nonstop flight." [ref=f3e939]: Nonstop
+                        - generic [ref=f3e941]:
+                          - generic [ref=f3e943]: 88 kg CO2e
+                          - generic [ref=f3e944]:
+                            - generic [aria-hidden] [ref=f3e945]: +7% emissions
+                            - 'button "Carbon emissions estimate: 88 kilograms. +7% emissions. Learn more about this emissions estimate" [ref=f3e946]'
+                        - generic [ref=f3e949]: Price unavailable
+                      - text: · ··
+                    - button "Flight details. Leaves Birsa Munda Airport, Ranchi at 9:10 PM on Tuesday, October 13 and arrives at Indira Gandhi International Airport at 11:20 PM on Tuesday, October 13." [ref=f3e954]
+                - listitem [ref=f3e959]:
+                  - generic [ref=f3e960] [cursor=pointer]:
+                    - button "View more flights" [ref=f3e963]
+                    - generic [aria-hidden] [ref=f3e966]: View more flights
+          - text: · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ··
+      - contentinfo [ref=f3e969]:
+        - generic [ref=f3e971]:
+          - button "Language·English (United States)" [ref=f3e972]
+          - button "Location·India" [ref=f3e978]
+          - button "Currency INR" [ref=f3e985]:
+            - generic [aria-hidden] [ref=f3e998]: Currency·INR
+        - generic [ref=f3e999]:
+          - link "About Google Travel" [ref=f3e1000] [cursor=pointer]:
+            - /url: https://about.google/?hl=en-US
+            - text: About
+          - link "Privacy" [ref=f3e1001] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-US
+          - link "Terms" [ref=f3e1002] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-US
+          - link "Join user studies" [ref=f3e1003] [cursor=pointer]:
+            - /url: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%2520link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26referral_code%3DUXbJ377133&Q_Language=en-US
+          - link "Feedback" [ref=f3e1004] [cursor=pointer]:
+            - /url: ./#0
+          - link "Help Center" [ref=f3e1005] [cursor=pointer]:
+            - /url: https://support.google.com/travel/?hl=en-US#topic=2475360
+        - paragraph [ref=f3e1007]:
+          - text: Displayed currencies may differ from the currencies used to purchase flights.
+          - link "Learn more about currencies" [ref=f3e1008] [cursor=pointer]:
+            - /url: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=IN
+            - text: Learn more

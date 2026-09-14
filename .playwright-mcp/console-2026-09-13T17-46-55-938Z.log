@@ -1,0 +1,21 @@
+[   16525ms] [WARNING] A speculation rule set was inserted into the document but will be ignored. This might happen, for example, if it was previously inserted into another document, or if it was created using the innerHTML setter. @ https://www.google.com/search?q=madhura+kar+childhood+video&oq=madhura+kar+childhood+video&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzNzE2ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8&sei=nuGmaoe6GN6cseMPrvDG-Qg:38
+[   19083ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://www.google.com'). @ https://www.youtube.com/s/player/8c3fda2d/www-widgetapi.vflset/www-widgetapi.js:162
+[   20097ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[   22685ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'. @ :0
+[   23800ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.facebook.com/100057436989506/videos/%F0%9D%90%86%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%9Dmadhura-kar-of-class-xi-humanities-from-techno-india-group-public/1183369076804728/:0
+[   24670ms] [WARNING] Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently @ https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/QpQ4ZveDLN4.js:59
+[   25405ms] [ERROR] ErrorUtils caught an error:
+
+terminate stream because StartStreamFailure with msg : UNAUTHENTICATED [Caught in: Subscription error in preprocessResponse]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. {column: 180, clientTime: 1789321641, extra: Object, guardList: Array(0), hash: whghz0} @ https://static.xx.fbcdn.net/rsrc.php/v4/yx/r/1TTHLUAykfR.js:83
+[   25617ms] [LOG] 
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black; @ https://static.xx.fbcdn.net/rsrc.php/v4/yx/r/1TTHLUAykfR.js:250
+[   25617ms] [LOG] 
+%cThis is a browser feature intended for developers. If someone told you to copy and paste something here to enable a Facebook feature or "hack" someone's account, it's a scam and will give them access to your Facebook account. font-family:helvetica; font-size:20px;  @ https://static.xx.fbcdn.net/rsrc.php/v4/yx/r/1TTHLUAykfR.js:250
+[   25640ms] [LOG] 
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px;  @ https://static.xx.fbcdn.net/rsrc.php/v4/yx/r/1TTHLUAykfR.js:250
+[   25640ms] [LOG] 
+%c  @ https://static.xx.fbcdn.net/rsrc.php/v4/yx/r/1TTHLUAykfR.js:250
+[   33306ms] [WARNING] A speculation rule set was inserted into the document but will be ignored. This might happen, for example, if it was previously inserted into another document, or if it was created using the innerHTML setter. @ https://www.google.com/search?q=madhura+kar+childhood+video&oq=madhura+kar+childhood+video&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzNzE2ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8&sei=nuGmaoe6GN6cseMPrvDG-Qg:38
+[   36281ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
