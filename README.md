@@ -10,22 +10,24 @@ A complete repository covering production-grade Agentic AI architectures, progre
 
 ### Architecture Workflow
 
+```text
 User Request + Success Criteria
                │
                ▼
-┌───────────────────────────────┐
-│     Worker Agent (Layer 3)     │ ◄─────────┐
-│  - Middleware Pipeline        │            │
-│  - MCP Playwright Browser     │            │
-│  - Sandbox & System Tools     │            │
-└──────────────┬────────────────┘            │
-               │ Output & Tools Used         │ Retry with Feedback
-               ▼                             │ (Up to MAX_ATTEMPTS)
-┌───────────────────────────────┐            │
-│       Evaluator Loop          │            │
-│  - Structured Output Parsing  │── Rejected ┘
-│  - Criteria Verification      │
-└──────────────┬────────────────┘
-               │ Passed / User Clarification Needed
-               ▼
-          Final Answer
+┌─────────────────────────────────┐
+│      Worker Agent (Layer 3)     │ ◄──────────┐
+│  - Middleware Pipeline          │            │
+│  - MCP Playwright Browser       │            │
+│  - Sandbox & System Tools       │            │
+└────────────────┬────────────────┘            │
+                 │ Output & Tools Used         │ Retry with Feedback
+                 ▼                             │ (Up to MAX_ATTEMPTS)
+┌─────────────────────────────────┐            │
+│         Evaluator Loop          │            │
+│  - Structured Output Parsing    │ ── Rejected ┘
+│  - Criteria Verification        │
+└────────────────┬────────────────┘
+                 │ Passed / User Clarification Needed
+                 ▼
+            Final Answer
+```
