@@ -3,4 +3,6 @@ playwright
 requests
 python-dotenv
 langchain
+langchain-openai
+langchain-community
 langchain-nvidia-ai-endpoints
