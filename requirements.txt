@@ -1,0 +1,6 @@
+gradio
+playwright
+requests
+python-dotenv
+langchain
+langchain-nvidia-ai-endpoints
