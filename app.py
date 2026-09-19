@@ -100,4 +100,9 @@ with gr.Blocks(title="Sidekick") as ui:
 
 
 if __name__ == "__main__":
-    ui.launch(inbrowser=True, **LAUNCH_STYLE)
+    ui.launch(
+        server_name="0.0.0.0",
+        server_port=7860,
+        inbrowser=False,  # Set to False so it doesn't try opening a local desktop browser inside the container
+        **LAUNCH_STYLE
+    )
